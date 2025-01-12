@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-01-09T00:22:36.674802+00:00",
+  "timestamp": "2025-01-12T00:25:07.577703+00:00",
   "repo": "larseggert/ietf-chair-may-delegate",
   "labels": [
     {
@@ -54,7 +54,24 @@
       "color": "0366d6"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 7,
+      "id": "I_kwDOKFKpQ86ly0-J",
+      "title": "NIT - minor Typographical defect in repository meta-data description",
+      "url": "https://github.com/larseggert/ietf-chair-may-delegate/issues/7",
+      "state": "OPEN",
+      "author": "reactive-firewall",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "NIT ; The draft abstract and the repository's github description differ by the use of \"an\" vs \"and\"\r\n\r\nHope this helps.\r\n\r\n> [!NOTE]\r\n> These contributions are made in compliance with the [Contributing guide](https://github.com/larseggert/ietf-chair-may-delegate/blob/0a24c80453548096fe21e89c7d04f949bdd9fef6/CONTRIBUTING.md)",
+      "createdAt": "2025-01-11T02:44:22Z",
+      "updatedAt": "2025-01-11T02:44:22Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": [
     {
       "number": 1,
