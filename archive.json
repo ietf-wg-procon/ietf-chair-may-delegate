@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-01-12T00:25:07.577703+00:00",
+  "timestamp": "2025-01-14T00:22:24.968900+00:00",
   "repo": "larseggert/ietf-chair-may-delegate",
   "labels": [
     {
@@ -67,9 +67,17 @@
       "labels": [],
       "body": "NIT ; The draft abstract and the repository's github description differ by the use of \"an\" vs \"and\"\r\n\r\nHope this helps.\r\n\r\n> [!NOTE]\r\n> These contributions are made in compliance with the [Contributing guide](https://github.com/larseggert/ietf-chair-may-delegate/blob/0a24c80453548096fe21e89c7d04f949bdd9fef6/CONTRIBUTING.md)",
       "createdAt": "2025-01-11T02:44:22Z",
-      "updatedAt": "2025-01-11T02:44:22Z",
+      "updatedAt": "2025-01-13T06:12:00Z",
       "closedAt": null,
-      "comments": []
+      "comments": [
+        {
+          "author": "larseggert",
+          "authorAssociation": "OWNER",
+          "body": "I'm sorry but _where_ do you see this difference? Could you include links to the two instances that aren't in agreement?",
+          "createdAt": "2025-01-13T06:11:59Z",
+          "updatedAt": "2025-01-13T06:11:59Z"
+        }
+      ]
     }
   ],
   "pulls": [
