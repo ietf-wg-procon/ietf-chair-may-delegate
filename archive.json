@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-01-21T00:21:44.677679+00:00",
+  "timestamp": "2025-01-23T00:22:00.943156+00:00",
   "repo": "larseggert/ietf-chair-may-delegate",
   "labels": [
     {
@@ -60,15 +60,15 @@
       "id": "I_kwDOKFKpQ86ly0-J",
       "title": "NIT - minor Typographical defect in repository meta-data description",
       "url": "https://github.com/larseggert/ietf-chair-may-delegate/issues/7",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "reactive-firewall",
       "authorAssociation": "NONE",
       "assignees": [],
       "labels": [],
       "body": "NIT ; The draft abstract and the repository's github description differ by the use of \"an\" vs \"and\"\r\n\r\nHope this helps.\r\n\r\n> [!NOTE]\r\n> These contributions are made in compliance with the [Contributing guide](https://github.com/larseggert/ietf-chair-may-delegate/blob/0a24c80453548096fe21e89c7d04f949bdd9fef6/CONTRIBUTING.md)",
       "createdAt": "2025-01-11T02:44:22Z",
-      "updatedAt": "2025-01-13T06:12:00Z",
-      "closedAt": null,
+      "updatedAt": "2025-01-22T07:33:46Z",
+      "closedAt": "2025-01-22T07:33:45Z",
       "comments": [
         {
           "author": "larseggert",
@@ -76,6 +76,20 @@
           "body": "I'm sorry but _where_ do you see this difference? Could you include links to the two instances that aren't in agreement?",
           "createdAt": "2025-01-13T06:11:59Z",
           "updatedAt": "2025-01-13T06:11:59Z"
+        },
+        {
+          "author": "reactive-firewall",
+          "authorAssociation": "NONE",
+          "body": "@larseggert, sorry for the delay in getting back to you on this :bow:\n\nThe first link is [here](https://github.com/larseggert/ietf-chair-may-delegate), however I'll include this screenshot for clarity and completeness:\n\n<img width=\"1615\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f30849f6-1312-4ebb-82b6-af7623aea40f\" />\n\nand the second link is [here around line 35 col 45](https://github.com/larseggert/ietf-chair-may-delegate/blob/main/draft-eggert-ietf-chair-may-delegate.md?plain=1#L35C45-L35C46)\n\n\nHope this helps.\n\n> [!NOTE]\n> \n> These contributions are made in compliance with the [Contributing guide](https://github.com/larseggert/ietf-chair-may-delegate/blob/0a24c80453548096fe21e89c7d04f949bdd9fef6/CONTRIBUTING.md)\n\n",
+          "createdAt": "2025-01-22T07:23:14Z",
+          "updatedAt": "2025-01-22T07:23:41Z"
+        },
+        {
+          "author": "larseggert",
+          "authorAssociation": "OWNER",
+          "body": "Got it & fixed. Thanks!",
+          "createdAt": "2025-01-22T07:33:45Z",
+          "updatedAt": "2025-01-22T07:33:45Z"
         }
       ]
     }
