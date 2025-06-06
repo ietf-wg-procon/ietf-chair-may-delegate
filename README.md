@@ -1,3 +1,5 @@
+<!-- regenerate: on (set to off if you edit this file) -->
+
 # The IETF Chair May Delegate
 
 This is the working area for the individual Internet-Draft, "The IETF Chair May Delegate".
