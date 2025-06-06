@@ -2,7 +2,7 @@
 
 
 
-IETF                                                           L. Eggert
+IETF                                                      L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
 Updates: 2850, 3710, 4949, 8713, 9281 (if                    6 June 2025
          approved)                                                      
@@ -30,6 +30,10 @@ About This Document
    may be found at https://datatracker.ietf.org/doc/draft-eggert-ietf-
    chair-may-delegate/.
 
+   Discussion of this document takes place on the procon Working Group
+   mailing list (mailto:procon@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/procon/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/procon/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/larseggert/ietf-chair-may-delegate.
@@ -513,10 +517,10 @@ Table of Contents
 
 Author's Address
 
-   Lars Eggert
+   Lars Eggert (editor)
    Mozilla
    Stenbergintie 12 B
    FI-02700 Kauniainen
    Finland
-   Email: lars@eggert.org
-   URI:   https://eggert.org/
+   Email: <lars@eggert.org>
+   URI:   <https://eggert.org/>
