@@ -8,22 +8,22 @@ consensus: true
 v: 3
 workgroup: "IETF"
 venue:
-  group: "IETF"
-  type: "Internet Engineering Task Force"
-  mail: ""
-  arch: ""
+  mail: "procon@ietf.org"
   github: "larseggert/ietf-chair-may-delegate"
   latest: "https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-ietf-chair-may-delegate.html"
 
 author:
-  name: Lars Eggert
-  org: Mozilla
-  street: Stenbergintie 12 B
-  city: Kauniainen
-  code: "02700"
-  country: FI
-  email: lars@eggert.org
-  uri: "https://eggert.org/"
+
+-
+    name: Lars Eggert
+    role: editor
+    org: Mozilla
+    street: Stenbergintie 12 B
+    city: Kauniainen
+    code: "02700"
+    country: FI
+    email: <lars@eggert.org>
+    uri: <https://eggert.org/>
 
 normative:
 
@@ -270,7 +270,7 @@ Area Director:
 ## Proposal {#prop-gen-ad}
 
 To allow the IETF Chair to delegate the Area Director role of the
-General Area, the following updates  to existing RFCs are suggested:
+General Area, the following updates to existing RFCs are suggested:
 
 1. Replace "who also functions as the General Area Director" with "who
 may also function as a General Area Director or may share that role
