@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-04-01T00:27:53.966744+00:00",
+  "timestamp": "2025-06-08T00:27:35.967331+00:00",
   "repo": "larseggert/ietf-chair-may-delegate",
   "labels": [
     {
@@ -291,6 +291,34 @@
           "updatedAt": "2024-07-15T06:48:07Z"
         }
       ],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "PR_kwDOKFKpQ86ZXzW9",
+      "title": "chore: Target at `procon` WG",
+      "url": "https://github.com/larseggert/ietf-chair-may-delegate/pull/8",
+      "state": "MERGED",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-06-06T10:45:31Z",
+      "updatedAt": "2025-06-06T11:11:41Z",
+      "baseRepository": "larseggert/ietf-chair-may-delegate",
+      "baseRefName": "main",
+      "baseRefOid": "588f6eec47c0d4b5450b8b730c2938769e34bd60",
+      "headRepository": "larseggert/ietf-chair-may-delegate",
+      "headRefName": "chore-procon-prep",
+      "headRefOid": "337bc866bc894dbd802d9f5ab9e89d504d87a193",
+      "closedAt": "2025-06-06T11:11:39Z",
+      "mergedAt": "2025-06-06T11:11:39Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "39de8f08f90334211c0ac4038d7937f2d7adb29d"
+      },
+      "comments": [],
       "reviews": []
     }
   ]
