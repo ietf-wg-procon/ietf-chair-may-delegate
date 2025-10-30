@@ -4,10 +4,10 @@
 
 IETF                                                      L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
-Updates: 2850, 3710, 4949, 8713, 9281 (if                27 October 2025
+Updates: 2850, 3710, 4949, 8713, 9281 (if                30 October 2025
          approved)                                                      
 Intended status: Best Current Practice                                  
-Expires: 30 April 2026
+Expires: 3 May 2026
 
 
                       The IETF Chair May Delegate
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 30 April 2026.
+   This Internet-Draft will expire on 3 May 2026.
 
 Copyright Notice
 
