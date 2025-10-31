@@ -2,15 +2,15 @@
 title: "The IETF Chair May Delegate"
 category: bcp
 updates: 2850, 3710, 4949, 8713, 9281
-docname: draft-eggert-ietf-chair-may-delegate-latest
+docname: draft-eggert-procon-chair-delegate-latest
 submissiontype: IETF
 consensus: true
 v: 3
 workgroup: "IETF"
 venue:
   mail: "procon@ietf.org"
-  github: "larseggert/ietf-chair-may-delegate"
-  latest: "https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-ietf-chair-may-delegate.html"
+  github: "ietf-wg-procon/ietf-chair-may-delegate"
+  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
 
 author:
 
@@ -52,7 +52,9 @@ forward.
 Few documents explicitly say that the IETF Chair may delegate some of
 these responsibilities. Over time, this has created a situation where
 even a full-time commitment by a single person may no longer be
-sufficient to fulfill all of these roles and duties.
+sufficient to fulfill all of these roles and duties. There may also
+be periods of high activity where not all duties can be performed due
+to other, higher-priority tasks.
 
 Also, the role of the IETF Chair is a single point of failure for the
 organization, with no defined processes for allowing others to
@@ -70,24 +72,25 @@ Area Directors. It leaves it up to each IETF Chair to determine if
 they would like to delegate some of their responsibilities, and if
 so, which ones, to whom and when.
 
-One model that is specifically enabled by this proposal, but is not
-required or even recommended, is a separation of the roles of the
-IETF Chair from that of the IESG Chair, allowing another Area
-Director to take over the chairperson role of the IESG and its
-associated responsibilities. It also enables delegation of the IETF
-Chair's full IAB membership and delegation or sharing of the role of
-the General Area Director.
+One model that is specifically enabled by this proposal is a
+separation of the roles of the IETF Chair from that of the IESG
+Chair, allowing another Area Director to take over the chairperson
+role of the IESG and its associated responsibilities. It also enables
+delegation of the IETF Chair's full IAB membership and delegation or
+sharing of the role of the General Area Director.
 
-Specifically, with these changes, it should be possible for the IESG
-to request the selection of a General Area Director who is not at the
-same time also the IETF Chair, to whom the IETF Chair may then
-delegate some of their responsibilities, such as chairing the IESG.
+This document does not require or even recommend that the IETF chair
+delegate any of their duties, it merely permits them to do so if they
+so choose. Specifically, with these changes, it should be possible
+for the IESG to request the selection of a General Area Director who
+is not at the same time also the IETF Chair, to whom the IETF Chair
+may then delegate some of their responsibilities.
 
 There must be community transparency about which roles the IETF Chair
 has delegated to which other Area Director, and for which time. This
 transparency can be guaranteed in several ways, such as through the
-IESG website or public email. Such operational details are out of the
-scope of this document.
+IESG website or public email. Such operational details are left to
+the discretion of the IESG.
 
 # Emergency Stand-In
 
@@ -170,7 +173,7 @@ the Area Director for the General Area:
 > The IESG is composed of the ADs and the IETF Chair. The IETF Chair
   also chairs the IESG and is the AD for the General Area.
 
-{{Section 4 of !RFC4949}}, an Informational RFC containing an Internet
+{{Section 4 of ?RFC4949}}, an Informational RFC containing an Internet
 Security Glossary, contains this text under the "Internet Engineering
 Steering Group (IESG)" glossary item:
 
@@ -198,7 +201,7 @@ of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
 
 1. Remove the clause "who also chairs the IESG" from the "Internet
 Engineering Steering Group (IESG)" glossary item in {{Section 4
-of !RFC4949}}.
+of ?RFC4949}}.
 
 # Delegation of the IAB Membership
 
@@ -243,9 +246,9 @@ has changed as described there." to the second bullet item in
 
 1. Change the sentence "The IETF Chair is also a member of the IAB,
 and the Chair of the Internet Research Task Force (IRTF) is an ex
-officio member." to "The Chair of the Internet Research Task Force
-(IRTF) is an ex officio member of the IAB." in {{Section 3.4
-of !RFC9281}}.
+officio member." to "The IETF Chair or their delegate is also a
+member of the IAB, and the Chair of the Internet Research Task Force
+(IRTF) is an ex officio member." in {{Section 3.4 of !RFC9281}}.
 
 # Delegation of the General Area Director Role
 
@@ -256,7 +259,7 @@ sharing of the role.
 
 ## Background
 
-{{Section 2 of !RFC3710}} states that the IETF Chair is the General
+{{Section 2 of ?RFC3710}} states that the IETF Chair is the General
 Area Director:
 
 > The IETF Chair, who also functions as the General Area Director when
@@ -275,7 +278,7 @@ General Area, the following updates to existing RFCs are suggested:
 1. Replace "who also functions as the General Area Director" with "who
 may also function as a General Area Director or may share that role
 with or delegate that role to another Area Director" in {{Section 2
-of !RFC3710}}.
+of ?RFC3710}}.
 
 1. Change the clause "The IETF chair, who is also the chair of the
 Internet Engineering Steering Group (IESG)" in the second sentence
@@ -289,7 +292,7 @@ become stale.
 
 ## Staff Supervision
 
-{{Section 7.1 of !RFC3710}} says
+{{Section 7.1 of ?RFC3710}} says
 
 > The IETF Chair has primary responsibility for supervising the work
   of the IETF Secretariat, with the advice and consent of the IESG,
@@ -297,7 +300,7 @@ become stale.
 
 With the publication of {{?RFC8711}}, this responsibility has moved to
 the IETF Executive Director. The proposal is to update
-{{Section 7.1 of !RFC3710}} to remove the sentence above.
+{{Section 7.1 of ?RFC3710}} to remove the sentence above.
 
 # Other Roles
 
@@ -369,4 +372,5 @@ These individuals suggested improvements to this document:
 
 - Alvaro Retana
 - Brian Carpenter
+- Jari Arkko
 --- back
