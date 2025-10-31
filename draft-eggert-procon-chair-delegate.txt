@@ -4,14 +4,14 @@
 
 IETF                                                      L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
-Updates: 2850, 3710, 4949, 8713, 9281 (if                30 October 2025
+Updates: 2850, 3710, 4949, 8713, 9281 (if                31 October 2025
          approved)                                                      
 Intended status: Best Current Practice                                  
-Expires: 3 May 2026
+Expires: 4 May 2026
 
 
                       The IETF Chair May Delegate
-              draft-eggert-ietf-chair-may-delegate-latest
+               draft-eggert-procon-chair-delegate-latest
 
 Abstract
 
@@ -24,11 +24,10 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-
-   ietf-chair-may-delegate.html.  Status information for this document
-   may be found at https://datatracker.ietf.org/doc/draft-eggert-ietf-
-   chair-may-delegate/.
+   The latest revision of this draft can be found at https://ietf-wg-
+   procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-
+   delegate.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-eggert-procon-chair-delegate/.
 
    Discussion of this document takes place on the procon Working Group
    mailing list (mailto:procon@ietf.org), which is archived at
@@ -36,7 +35,7 @@ About This Document
    https://www.ietf.org/mailman/listinfo/procon/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/larseggert/ietf-chair-may-delegate.
+   https://github.com/ietf-wg-procon/ietf-chair-may-delegate.
 
 Status of This Memo
 
@@ -53,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 May 2026.
+   This Internet-Draft will expire on 4 May 2026.
 
 Copyright Notice
 
@@ -114,7 +113,9 @@ Table of Contents
    Few documents explicitly say that the IETF Chair may delegate some of
    these responsibilities.  Over time, this has created a situation
    where even a full-time commitment by a single person may no longer be
-   sufficient to fulfill all of these roles and duties.
+   sufficient to fulfill all of these roles and duties.  There may also
+   be periods of high activity where not all duties can be performed due
+   to other, higher-priority tasks.
 
    Also, the role of the IETF Chair is a single point of failure for the
    organization, with no defined processes for allowing others to
@@ -132,24 +133,25 @@ Table of Contents
    they would like to delegate some of their responsibilities, and if
    so, which ones, to whom and when.
 
-   One model that is specifically enabled by this proposal, but is not
-   required or even recommended, is a separation of the roles of the
-   IETF Chair from that of the IESG Chair, allowing another Area
-   Director to take over the chairperson role of the IESG and its
-   associated responsibilities.  It also enables delegation of the IETF
-   Chair's full IAB membership and delegation or sharing of the role of
-   the General Area Director.
+   One model that is specifically enabled by this proposal is a
+   separation of the roles of the IETF Chair from that of the IESG
+   Chair, allowing another Area Director to take over the chairperson
+   role of the IESG and its associated responsibilities.  It also
+   enables delegation of the IETF Chair's full IAB membership and
+   delegation or sharing of the role of the General Area Director.
 
-   Specifically, with these changes, it should be possible for the IESG
-   to request the selection of a General Area Director who is not at the
-   same time also the IETF Chair, to whom the IETF Chair may then
-   delegate some of their responsibilities, such as chairing the IESG.
+   This document does not require or even recommend that the IETF chair
+   delegate any of their duties, it merely permits them to do so if they
+   so choose.  Specifically, with these changes, it should be possible
+   for the IESG to request the selection of a General Area Director who
+   is not at the same time also the IETF Chair, to whom the IETF Chair
+   may then delegate some of their responsibilities.
 
    There must be community transparency about which roles the IETF Chair
    has delegated to which other Area Director, and for which time.  This
    transparency can be guaranteed in several ways, such as through the
-   IESG website or public email.  Such operational details are out of
-   the scope of this document.
+   IESG website or public email.  Such operational details are left to
+   the discretion of the IESG.
 
 2.  Emergency Stand-In
 
@@ -304,9 +306,10 @@ Table of Contents
 
    3.  Change the sentence "The IETF Chair is also a member of the IAB,
        and the Chair of the Internet Research Task Force (IRTF) is an ex
-       officio member." to "The Chair of the Internet Research Task
-       Force (IRTF) is an ex officio member of the IAB." in Section 3.4
-       of [RFC9281].
+       officio member." to "The IETF Chair or their delegate is also a
+       member of the IAB, and the Chair of the Internet Research Task
+       Force (IRTF) is an ex officio member." in Section 3.4 of
+       [RFC9281].
 
 5.  Delegation of the General Area Director Role
 
@@ -433,6 +436,8 @@ Table of Contents
 
    *  Brian Carpenter
 
+   *  Jari Arkko
+
 11.  References
 
 11.1.  Normative References
@@ -445,14 +450,6 @@ Table of Contents
               Architecture Board (IAB)", BCP 39, RFC 2850,
               DOI 10.17487/RFC2850, May 2000,
               <https://www.rfc-editor.org/rfc/rfc2850>.
-
-   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710,
-              DOI 10.17487/RFC3710, February 2004,
-              <https://www.rfc-editor.org/rfc/rfc3710>.
-
-   [RFC4949]  Shirey, R., "Internet Security Glossary, Version 2",
-              FYI 36, RFC 4949, DOI 10.17487/RFC4949, August 2007,
-              <https://www.rfc-editor.org/rfc/rfc4949>.
 
    [RFC8713]  Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
               Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
@@ -488,6 +485,10 @@ Table of Contents
               DOI 10.17487/RFC3552, July 2003,
               <https://www.rfc-editor.org/rfc/rfc3552>.
 
+   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710,
+              DOI 10.17487/RFC3710, February 2004,
+              <https://www.rfc-editor.org/rfc/rfc3710>.
+
    [RFC4052]  Daigle, L., Ed. and IAB, "IAB Processes for Management of
               IETF Liaison Relationships", BCP 102, RFC 4052,
               DOI 10.17487/RFC4052, April 2005,
@@ -497,6 +498,10 @@ Table of Contents
               Liaison to Another Organization", RFC 4691,
               DOI 10.17487/RFC4691, October 2006,
               <https://www.rfc-editor.org/rfc/rfc4691>.
+
+   [RFC4949]  Shirey, R., "Internet Security Glossary, Version 2",
+              FYI 36, RFC 4949, DOI 10.17487/RFC4949, August 2007,
+              <https://www.rfc-editor.org/rfc/rfc4949>.
 
    [RFC7154]  Moonesamy, S., Ed., "IETF Guidelines for Conduct", BCP 54,
               RFC 7154, DOI 10.17487/RFC7154, March 2014,
