@@ -527,5 +527,5 @@ Author's Address
    Stenbergintie 12 B
    FI-02700 Kauniainen
    Finland
-   Email: <lars@eggert.org>
-   URI:   <https://eggert.org/>
+   Email: lars@eggert.org
+   URI:   https://eggert.org/
