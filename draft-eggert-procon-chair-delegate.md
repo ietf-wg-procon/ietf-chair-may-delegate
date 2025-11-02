@@ -22,8 +22,8 @@ author:
     city: Kauniainen
     code: "02700"
     country: FI
-    email: <lars@eggert.org>
-    uri: <https://eggert.org/>
+    email: lars@eggert.org
+    uri: https://eggert.org/
 
 normative:
 
