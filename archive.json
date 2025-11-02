@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-28T00:53:22.427785+00:00",
+  "timestamp": "2025-11-02T00:58:52.000646+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -414,6 +414,49 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 11,
+      "id": "PR_kwDOKFKpQ86wl65d",
+      "title": "fix: Suggestions from jari",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/11",
+      "state": "MERGED",
+      "author": "larseggert",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "See https://mailarchive.ietf.org/arch/msg/procon/OZznvEpB1wMyg6OuSeYl2zIDI1w/\r\n\r\nCC @jariarkko",
+      "createdAt": "2025-10-30T11:13:52Z",
+      "updatedAt": "2025-10-31T13:12:23Z",
+      "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "baseRefName": "main",
+      "baseRefOid": "3de0f96415d94e7eb48c3a15e6c6c29a77c220a2",
+      "headRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "headRefName": "jari",
+      "headRefOid": "d38b8a1e93c46ef17ce0a6e4d80300c2c0ad5c54",
+      "closedAt": "2025-10-31T13:12:21Z",
+      "mergedAt": "2025-10-31T13:12:21Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "50c30b96d17531e66dd4dcf8628e8e66160c4d5b"
+      },
+      "comments": [
+        {
+          "author": "larseggert",
+          "authorAssociation": "COLLABORATOR",
+          "body": "What I didn't address here is\r\n\r\n>2. Emergency Stand-In\r\n>\r\n>The text discusses just the IETF Chair role. Is there a need to designate an emergency stand-in for the IESG chair, e.g., by stating that the IESG can choose a chair for the IESG meetings on a per-meeting basis when the IESG Chair is unavailable? (Which we already do.)\r\n\r\nbecause I think what's currently done is to find a placeholder for the chair if they can't make a call or meeting **without** delegating that stand-in any of the chairs' powers (which this doc is about).",
+          "createdAt": "2025-10-30T11:15:22Z",
+          "updatedAt": "2025-10-30T11:15:22Z"
+        },
+        {
+          "author": "jariarkko",
+          "authorAssociation": "NONE",
+          "body": "Ok, I accept the explanation.\r\n\r\nChanges are fine.",
+          "createdAt": "2025-10-31T12:36:45Z",
+          "updatedAt": "2025-10-31T12:36:45Z"
+        }
+      ],
+      "reviews": []
     }
   ]
 }
