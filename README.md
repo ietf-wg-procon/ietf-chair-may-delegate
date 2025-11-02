@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "The IETF Chair May Delegate".
 
-* [Editor's Copy](https://larseggert.github.io/ietf-chair-may-delegate/#go.draft-eggert-ietf-chair-may-delegate.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-eggert-ietf-chair-may-delegate)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-eggert-ietf-chair-may-delegate)
-* [Compare Editor's Copy to Individual Draft](https://larseggert.github.io/ietf-chair-may-delegate/#go.draft-eggert-ietf-chair-may-delegate.diff)
+* [Editor's Copy](https://larseggert.github.io/ietf-chair-may-delegate/#go.draft-eggert-procon-chair-delegate.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-eggert-procon-chair-delegate)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-eggert-procon-chair-delegate)
+* [Compare Editor's Copy to Individual Draft](https://larseggert.github.io/ietf-chair-may-delegate/#go.draft-eggert-procon-chair-delegate.diff)
 
 
 ## Contributing
