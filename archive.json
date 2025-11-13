@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-11-04T00:55:42.245260+00:00",
+  "timestamp": "2025-11-13T00:56:48.170853+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -57,6 +57,11 @@
       "name": "github_actions",
       "description": "Pull requests that update GitHub Actions code",
       "color": "000000"
+    },
+    {
+      "name": "needs-discussion",
+      "description": "",
+      "color": "69f618"
     }
   ],
   "issues": [
@@ -97,6 +102,74 @@
           "updatedAt": "2025-01-22T07:33:45Z"
         }
       ]
+    },
+    {
+      "number": 14,
+      "id": "I_kwDOKFKpQ87XPzzM",
+      "title": "Remove the passive voice",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/14",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [
+        "needs-discussion"
+      ],
+      "body": "Suggestion received in email.\n\n",
+      "createdAt": "2025-11-11T08:29:03Z",
+      "updatedAt": "2025-11-11T19:15:25Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "I can't see any cases in the draft where the passive voice is inappropriate. (FWIW, I was educated to _always_ use the passive voice in scientific writing, e.g. \"The test tube was filled with hydrofluoric acid.\")",
+          "createdAt": "2025-11-11T19:15:25Z",
+          "updatedAt": "2025-11-11T19:15:25Z"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "id": "I_kwDOKFKpQ87XP0ll",
+      "title": "Vice-Chair from IESG members",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/15",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [
+        "needs-discussion"
+      ],
+      "body": "Suggestion received in email.\n\n> appoint another AD at their discretion as Vice-Chair at the time the IETF Chair is appointed, so it's done in advance. Three steps:\n>\n>The IETF Chair is appointed.\n>The IETF Chair chooses a Vice-Chair from IESG members.\n>The IAB Chair steps in if both of these steps fail.",
+      "createdAt": "2025-11-11T08:30:05Z",
+      "updatedAt": "2025-11-11T19:17:25Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Good idea. It would avoid any delay in ongoing operations.",
+          "createdAt": "2025-11-11T19:17:25Z",
+          "updatedAt": "2025-11-11T19:17:25Z"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "I_kwDOKFKpQ87XYx5c",
+      "title": "Replace \"Proposed\"",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/16",
+      "state": "OPEN",
+      "author": "becarpenter",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Most of the uses of \"propos*\" and  \"suggest*\" should be replaced by a positive or normative word.",
+      "createdAt": "2025-11-11T19:23:02Z",
+      "updatedAt": "2025-11-11T19:23:02Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
