@@ -31,9 +31,9 @@ informative:
 
 --- abstract
 
-This document proposes that the IETF Chair may delegate some of their
+This document affirms that the IETF Chair may delegate some of their
 responsibilities to other Area Directors, and updates several
-existing RFCs to enable that. It also proposes a succession of
+existing RFCs to enable that. It also defines a succession of
 emergency stand-ins in case the IETF Chair becomes incapacitated.
 
 --- middle
@@ -66,13 +66,13 @@ allows for the permanent replacement of the IETF Chair by another
 individual.)
 
 Single bottlenecks like this have obvious scaling and fault tolerance
-issues. This document hence proposes to explicitly allow the IETF
+issues. This document hence explicitly allows the IETF
 Chair to delegate some of their responsibilities to one or more other
 Area Directors. It leaves it up to each IETF Chair to determine if
 they would like to delegate some of their responsibilities, and if
 so, which ones, to whom and when.
 
-One model that is specifically enabled by this proposal is a
+One model that is specifically enabled by this document is a
 separation of the roles of the IETF Chair from that of the IESG
 Chair, allowing another Area Director to take over the chairperson
 role of the IESG and its associated responsibilities. It also enables
@@ -114,9 +114,9 @@ during which time there is no defined stand-in for the IETF Chair.
   witnesses to reasons that would merit an IETF Chair recall, but
   they are currently unable to initiate one directly.
 
-## Proposal
+## Delegation of the IETF Chair Role
 
-This document proposes that in the case the IETF Chair becomes
+This document defines that in the case the IETF Chair becomes
 incapacitated, the IAB Chair will automatically assume the role of
 the IETF Chair. If the IAB Chair is unable to do so, the IETF Chair
 role will automatically fall to the Chair of the IETF Administration
@@ -127,7 +127,7 @@ delegation ends.
 
 This section analyzes which RFCs imply that the IETF Chair and IESG
 Chair roles need to be filled by the same person, and makes
-suggestions for updates that would allow a separation.
+updates that would allow a separation.
 
 ## Background
 
@@ -185,11 +185,11 @@ Steering Group (IESG)" glossary item:
   IETF Area Directors and the IETF chairperson, who also chairs the
   IESG. (RFC 2026)
 
-## Proposal {#prop-chair-roles}
+## Delegation of the IESG Chair Role {#prop-chair-roles}
 
 To allow the IETF Chair to delegate the role of IESG Chair to another
 AD (as arguably intended to be allowed by {{!RFC2026}}), the
-following updates to existing RFCs are proposed:
+following updates to existing RFCs are needed:
 
 1. Remove the sentence "The IETF Chair also chairs the IESG and is the
 AD for the General Area." from {{Section 3.3 of !RFC9281}}.
@@ -197,7 +197,7 @@ AD for the General Area." from {{Section 3.3 of !RFC9281}}.
 1. Change the clause "The IETF chair, who is also the chair of the
 Internet Engineering Steering Group (IESG)" in the second sentence
 of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
-(This is also part of the suggestions in {{prop-gen-ad}}.)
+(This is also part of the change in {{prop-gen-ad}}.)
 
 1. Remove the clause "who also chairs the IESG" from the "Internet
 Engineering Steering Group (IESG)" glossary item in {{Section 4
@@ -206,7 +206,7 @@ of ?RFC4949}}.
 # Delegation of the IAB Membership
 
 This section analyzes which RFCs contain text about the full IAB
-membership of the IETF Chair, and makes suggestions for updates that
+membership of the IETF Chair, and makes updates that
 would allow delegation of the IAB membership.
 
 ## Background
@@ -231,10 +231,10 @@ for "consideration by future NomComs":
 > The IETF Chair is also a member of the IAB, and the Chair of the
   Internet Research Task Force (IRTF) is an ex officio member.
 
-## Proposal
+## Delegation of the IAB Member Role
 
 To allow the IETF Chair to delegate their full IAB membership to
-another AD, the following updates to existing RFCs are suggested:
+another AD, the following updates to existing RFCs are needed:
 
 1. Add "or their Delegate Area Director" at the end of the
 clause "composed of the chair of the Internet Engineering Task Force
@@ -254,7 +254,7 @@ member of the IAB, and the Chair of the Internet Research Task Force
 
 This section analyzes which RFCs contain text about the responsibility
 of the IETF Chair to also serve as Area Director of the General Area,
-and makes suggestions for updates that would allow delegation of or
+and makes updates that would allow delegation of or
 sharing of the role.
 
 ## Background
@@ -270,10 +270,10 @@ Area Director:
 > The IETF Chair also chairs the IESG and is the AD for the General
   Area.
 
-## Proposal {#prop-gen-ad}
+## Delegation of the GEN Area AD Role {#prop-gen-ad}
 
 To allow the IETF Chair to delegate the Area Director role of the
-General Area, the following updates to existing RFCs are suggested:
+General Area, the following updates to existing RFCs are needed:
 
 1. Replace "who also functions as the General Area Director" with "who
 may also function as a General Area Director or may share that role
@@ -283,7 +283,7 @@ of ?RFC3710}}.
 1. Change the clause "The IETF chair, who is also the chair of the
 Internet Engineering Steering Group (IESG)" in the second sentence
 of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
-(This is also part of the suggestions in {{prop-chair-roles}}.)
+(This is also part of the changes in {{prop-chair-roles}}.)
 
 # Other Updates
 
@@ -299,7 +299,7 @@ become stale.
   the IAB Chair and the ISOC president.
 
 With the publication of {{?RFC8711}}, this responsibility has moved to
-the IETF Executive Director. The proposal is to update
+the IETF Executive Director. The document updates
 {{Section 7.1 of ?RFC3710}} to remove the sentence above.
 
 # Other Roles
@@ -346,7 +346,7 @@ list {{?RFC9245}}. They also select moderators for the Last-Call
 mailing list, and other lists with an organizational scope
 encompassing the entire IETF.
 
-This document does not suggest any changes here, but the community may
+This document does not make any changes here, but the community may
 consider allowing delegation of either of these responsibilities if
 revisions of {{?RFC7776}} or {{?RFC9245}} are undertaken.
 
@@ -355,7 +355,7 @@ revisions of {{?RFC7776}} or {{?RFC9245}} are undertaken.
 {{?RFC8711}} suggests that the IETF Chair, or a delegate selected by
 the IESG, will serve on the Board of Directors of the IETF
 Administration LLC. Because delegation of that role is already
-explicitly allowed, no changes are suggested here.
+explicitly allowed, no changes are made here.
 
 # Security Considerations
 
