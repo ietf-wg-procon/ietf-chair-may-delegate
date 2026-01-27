@@ -6,11 +6,11 @@ docname: draft-eggert-procon-chair-delegate-latest
 submissiontype: IETF
 consensus: true
 v: 3
-workgroup: "IETF"
+workgroup: "Process Document Consolidation"
 venue:
   mail: "procon@ietf.org"
-  github: "ietf-wg-procon/ietf-chair-may-delegate"
-  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
+  github: "larseggert/ietf-chair-may-delegate"
+  latest: "https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
 
 author:
 
