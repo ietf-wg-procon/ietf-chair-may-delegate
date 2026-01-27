@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-12-16T00:59:48.351703+00:00",
+  "timestamp": "2026-01-27T01:05:54.651564+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -160,15 +160,15 @@
       "id": "I_kwDOKFKpQ87XYx5c",
       "title": "Replace \"Proposed\"",
       "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/16",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "becarpenter",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "Most of the uses of \"propos*\" and  \"suggest*\" should be replaced by a positive or normative word.",
       "createdAt": "2025-11-11T19:23:02Z",
-      "updatedAt": "2025-11-11T19:23:02Z",
-      "closedAt": null,
+      "updatedAt": "2026-01-26T19:58:47Z",
+      "closedAt": "2026-01-26T19:58:47Z",
       "comments": []
     }
   ],
@@ -694,6 +694,68 @@
       "mergeCommit": {
         "oid": "78ec13a98e78ffe7a291ab51fc3f3cd899bc4811"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 20,
+      "id": "PR_kwDOKFKpQ86_XBQh",
+      "title": "fix: Change `propos*` and `suggest*`",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/20",
+      "state": "MERGED",
+      "author": "larseggert",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "To positive or normative wording.\r\n\r\nFixes #16",
+      "createdAt": "2026-01-26T12:49:22Z",
+      "updatedAt": "2026-01-26T19:58:48Z",
+      "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "baseRefName": "main",
+      "baseRefOid": "2be5f54ecf4d56b543b269d9212c05b61aefa6ea",
+      "headRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "headRefName": "fix-16",
+      "headRefOid": "b4ec9aa125a60dfe28001b774c830e55843c5804",
+      "closedAt": "2026-01-26T19:58:46Z",
+      "mergedAt": "2026-01-26T19:58:46Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "715454314a88a181c7687748a86d3e09c9c7d559"
+      },
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "WFM!",
+          "createdAt": "2026-01-26T19:17:26Z",
+          "updatedAt": "2026-01-26T19:17:26Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 21,
+      "id": "PR_kwDOKFKpQ86_XJZr",
+      "title": "fix: IETF Chair designates stand-ignored",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/21",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Fixes #15",
+      "createdAt": "2026-01-26T13:01:02Z",
+      "updatedAt": "2026-01-26T13:01:02Z",
+      "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "baseRefName": "main",
+      "baseRefOid": "2be5f54ecf4d56b543b269d9212c05b61aefa6ea",
+      "headRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "headRefName": "fix-15",
+      "headRefOid": "b7d691c8456293635171bab574541c029a8f27a0",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
