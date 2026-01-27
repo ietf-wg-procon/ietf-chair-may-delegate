@@ -9,8 +9,8 @@ v: 3
 workgroup: "Process Document Consolidation"
 venue:
   mail: "procon@ietf.org"
-  github: "larseggert/ietf-chair-may-delegate"
-  latest: "https://larseggert.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
+  github: "ietf-wg-procon/ietf-chair-may-delegate"
+  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
 
 author:
 
