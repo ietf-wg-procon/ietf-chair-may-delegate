@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-01-27T01:05:54.651564+00:00",
+  "timestamp": "2026-01-29T01:11:28.799400+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -745,13 +745,13 @@
       "labels": [],
       "body": "Fixes #15",
       "createdAt": "2026-01-26T13:01:02Z",
-      "updatedAt": "2026-01-26T13:01:02Z",
+      "updatedAt": "2026-01-27T06:30:30Z",
       "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
       "baseRefName": "main",
-      "baseRefOid": "2be5f54ecf4d56b543b269d9212c05b61aefa6ea",
+      "baseRefOid": "52f4109f18493cf7b3d9469eeb44bf183aa89674",
       "headRepository": "ietf-wg-procon/ietf-chair-may-delegate",
       "headRefName": "fix-15",
-      "headRefOid": "b7d691c8456293635171bab574541c029a8f27a0",
+      "headRefOid": "ebb23aeb1b45d02c6da4e61744522fa87455e298",
       "closedAt": null,
       "mergedAt": null,
       "mergedBy": null,
