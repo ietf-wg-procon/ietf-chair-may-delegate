@@ -4,10 +4,10 @@
 
 Process Document Consolidation                            L. Eggert, Ed.
 Internet-Draft                                                   Mozilla
-Updates: 2850, 3710, 4949, 8713, 9281 (if                27 January 2026
+Updates: 2850, 3710, 4949, 8713, 9281 (if                31 January 2026
          approved)                                                      
 Intended status: Best Current Practice                                  
-Expires: 31 July 2026
+Expires: 4 August 2026
 
 
                       The IETF Chair May Delegate
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 31 July 2026.
+   This Internet-Draft will expire on 4 August 2026.
 
 Copyright Notice
 
@@ -176,12 +176,13 @@ Table of Contents
 
 2.2.  Delegation of the IETF Chair Role
 
-   This document defines that in the case the IETF Chair becomes
-   incapacitated, the IAB Chair will automatically assume the role of
-   the IETF Chair.  If the IAB Chair is unable to do so, the IETF Chair
-   role will automatically fall to the Chair of the IETF Administration
-   LLC.  As soon as the NomCom appoints a new IETF Chair this emergency
-   delegation ends.
+   This document proposes that the IETF Chair, at their sole discretion,
+   designates another Area Director as their stand-in immediately upon
+   being seated and at anytime afterward in case changes need to be
+   made.  In case the IETF Chair becomes incapacitated, the stand-in
+   will automatically and immediately assume the role of the IETF Chair.
+   This emergency delegation ends as soon as the NomCom appoints a new
+   IETF Chair or the IETF Chair declares themselves fit for duty again.
 
 3.  Separating the IETF Chair and IESG Chair Roles
 
