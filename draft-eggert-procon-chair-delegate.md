@@ -116,12 +116,13 @@ during which time there is no defined stand-in for the IETF Chair.
 
 ## Delegation of the IETF Chair Role
 
-This document defines that in the case the IETF Chair becomes
-incapacitated, the IAB Chair will automatically assume the role of
-the IETF Chair. If the IAB Chair is unable to do so, the IETF Chair
-role will automatically fall to the Chair of the IETF Administration
-LLC. As soon as the NomCom appoints a new IETF Chair this emergency
-delegation ends.
+This document proposes that the IETF Chair, at their sole discretion,
+designates another Area Director as their stand-in immediately upon
+being seated and at anytime afterward in case changes need to be
+made. In case the IETF Chair becomes incapacitated, the stand-in will
+automatically and immediately assume the role of the IETF Chair. This
+emergency delegation ends as soon as the NomCom appoints a new IETF
+Chair or the IETF Chair declares themselves fit for duty again.
 
 # Separating the IETF Chair and IESG Chair Roles
 
