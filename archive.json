@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-01-29T01:11:28.799400+00:00",
+  "timestamp": "2026-02-01T01:22:58.010656+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -134,7 +134,7 @@
       "id": "I_kwDOKFKpQ87XP0ll",
       "title": "Vice-Chair from IESG members",
       "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/15",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "larseggert",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
@@ -143,8 +143,8 @@
       ],
       "body": "Suggestion received in email.\n\n> appoint another AD at their discretion as Vice-Chair at the time the IETF Chair is appointed, so it's done in advance. Three steps:\n>\n>The IETF Chair is appointed.\n>The IETF Chair chooses a Vice-Chair from IESG members.\n>The IAB Chair steps in if both of these steps fail.",
       "createdAt": "2025-11-11T08:30:05Z",
-      "updatedAt": "2025-11-11T19:17:25Z",
-      "closedAt": null,
+      "updatedAt": "2026-01-31T10:01:42Z",
+      "closedAt": "2026-01-31T10:01:42Z",
       "comments": [
         {
           "author": "becarpenter",
@@ -738,24 +738,26 @@
       "id": "PR_kwDOKFKpQ86_XJZr",
       "title": "fix: IETF Chair designates stand-ignored",
       "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/21",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "larseggert",
       "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [],
       "body": "Fixes #15",
       "createdAt": "2026-01-26T13:01:02Z",
-      "updatedAt": "2026-01-27T06:30:30Z",
+      "updatedAt": "2026-01-31T10:01:42Z",
       "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
       "baseRefName": "main",
       "baseRefOid": "52f4109f18493cf7b3d9469eeb44bf183aa89674",
       "headRepository": "ietf-wg-procon/ietf-chair-may-delegate",
       "headRefName": "fix-15",
       "headRefOid": "ebb23aeb1b45d02c6da4e61744522fa87455e298",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2026-01-31T10:01:40Z",
+      "mergedAt": "2026-01-31T10:01:40Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "ae2b4498f0c53edf7a4999d07fd2789196982e8d"
+      },
       "comments": [],
       "reviews": []
     }
