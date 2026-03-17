@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-03T01:15:47.605005+00:00",
+  "timestamp": "2026-03-17T01:14:57.681196+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -170,6 +170,58 @@
       "updatedAt": "2026-01-26T19:58:47Z",
       "closedAt": "2026-01-26T19:58:47Z",
       "comments": []
+    },
+    {
+      "number": 26,
+      "id": "I_kwDOKFKpQ87zavj8",
+      "title": "I think you want the term \"vice chair\"",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/26",
+      "state": "OPEN",
+      "author": "sayrer",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "The important part of this term is that they are designated in advance. It doesn't have to be anything dramatic to cause this process to kick in. It can just be a missed flight or a child's graduation, causing a scheduling conflict. That way, business can carry on. Most of it is uncontroversial. If there were something really serious, it would take a long time anyway, but all of the other regular business can get done.",
+      "createdAt": "2026-03-16T17:40:32Z",
+      "updatedAt": "2026-03-17T01:14:55Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Yes. It seems to me that it is standard practice throughout the real world to designate an alternate to take over when the principal is unavailable. There's nothing magical about the IETF Chair role in ths respect. The oddity is that we _don't_ identify a Vice-Chair.",
+          "createdAt": "2026-03-16T19:26:27Z",
+          "updatedAt": "2026-03-16T19:26:27Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "Yep, and \"unavailable\" is better than \"incapacitated\", which is way too loaded. I just got to Mirja's and Ekr's comments, which say the same thing. I think part of being the IETF Chair is to pick a good vice chair, which avoids Ekr's concern about an unappointed executive (not unappointed exactly, they are already an AD).",
+          "createdAt": "2026-03-16T19:35:32Z",
+          "updatedAt": "2026-03-16T19:53:16Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "Maybe the thing to think about is whether we're just trying to look after everyday business or handle really exceptional cases. I think we should not aim for the latter, as there will probably be more than we can write if that happens.\n\nThere is a comparable historical case: many people think Gerald Ford was the Speaker of the House. No. Nixon's Vice-President resigned, the Congress confirmed the House Minority leader as VP, and then Nixon resigned.\n\nThat kind of thing can't be covered in a BCP, but we can do normal business if someone is unavailable without conducting an election. (see 12th amendment, a less known one) ",
+          "createdAt": "2026-03-16T20:06:15Z",
+          "updatedAt": "2026-03-16T20:21:50Z"
+        },
+        {
+          "author": "larseggert",
+          "authorAssociation": "COLLABORATOR",
+          "body": "I decided against \"vice chair\" on purpose, because I think it carries too much baggage (= implies there is more to this than we define here). \"Vice chair\" to me sounds like the role has ongoing duties, which it doesn't.",
+          "createdAt": "2026-03-17T00:43:45Z",
+          "updatedAt": "2026-03-17T00:43:45Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "Oh, but that's why it exists. If the chair is unavailable, they cannot delegate anything. The idea is to let the boring stuff proceed if the chair is indisposed (maybe an even better word?). A wise Vice Chair would delay anything serious.",
+          "createdAt": "2026-03-17T01:14:55Z",
+          "updatedAt": "2026-03-17T01:14:55Z"
+        }
+      ]
     }
   ],
   "pulls": [
