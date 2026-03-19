@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-17T01:14:57.681196+00:00",
+  "timestamp": "2026-03-19T01:18:11.294082+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -183,7 +183,7 @@
       "labels": [],
       "body": "The important part of this term is that they are designated in advance. It doesn't have to be anything dramatic to cause this process to kick in. It can just be a missed flight or a child's graduation, causing a scheduling conflict. That way, business can carry on. Most of it is uncontroversial. If there were something really serious, it would take a long time anyway, but all of the other regular business can get done.",
       "createdAt": "2026-03-16T17:40:32Z",
-      "updatedAt": "2026-03-17T01:14:55Z",
+      "updatedAt": "2026-03-17T02:37:49Z",
       "closedAt": null,
       "comments": [
         {
@@ -217,9 +217,37 @@
         {
           "author": "sayrer",
           "authorAssociation": "NONE",
-          "body": "Oh, but that's why it exists. If the chair is unavailable, they cannot delegate anything. The idea is to let the boring stuff proceed if the chair is indisposed (maybe an even better word?). A wise Vice Chair would delay anything serious.",
+          "body": "Oh, but that's why it exists. If the chair is unavailable, they cannot delegate anything (Mirja's point on the mic). The idea is to let the boring stuff proceed if the chair is indisposed (maybe an even better word?). A wise Vice Chair would delay anything serious.",
           "createdAt": "2026-03-17T01:14:55Z",
-          "updatedAt": "2026-03-17T01:14:55Z"
+          "updatedAt": "2026-03-17T01:17:24Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "This is weird English, so just so it's super clear:\n\n\": slightly ill \u2014often used to politely excuse someone's absence without giving a specific reason\"\n\nhttps://www.merriam-webster.com/dictionary/indisposed\n\nThere's more to it, though. It can mean something like \"someone rang the doorbell while you were in the shower\". That's what we're after here. (the person is not incapacitated, it's just unreasonable to answer the door, even though they could)",
+          "createdAt": "2026-03-17T01:30:12Z",
+          "updatedAt": "2026-03-17T01:48:48Z"
+        },
+        {
+          "author": "becarpenter",
+          "authorAssociation": "COLLABORATOR",
+          "body": "It seems to me that either \"vice\" or \"deputy\" would work, as long as it's defined in the text. That's the only way to avoid misinterpretation. Since we're all geeks here, we could even call them the \"Backup Chair\". In sports, they'd be the \"Reserve Chair.\"\n\n(Fred Baker would have been a great asset to this conversation, and I can almost hear him wryly observing that \"Vice Chair\" could be misunderstood as \"Chair of Vice\" - the word's double meaning might be confusing for some non-native speakers of English. So maybe \"Deputy\" is actually better.)",
+          "createdAt": "2026-03-17T02:16:39Z",
+          "updatedAt": "2026-03-17T02:16:39Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "> It seems to me that either \"vice\" or \"deputy\" would work, as long as it's defined in the text. That's the only way to avoid misinterpretation. Since we're all geeks here, we could even call them the \"Backup Chair\". In sports, they'd be the \"Reserve Chair.\"\n\nTo keep it light-hearted: although I think this issue is a serious point, it would be \"backup\" in American English sports. So, if you're watching Premier League football, you say \"reserve striker\", but you say \"backup point guard\" if you're watching the NBA.",
+          "createdAt": "2026-03-17T02:24:37Z",
+          "updatedAt": "2026-03-17T02:28:06Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "Both are wrong too, for this situation. Here, we want someone with the cool to say \"oh, they're not here, let's do the boring stuff\". There's no coach that decides to put them in. There's no Pep Guardiola.\n",
+          "createdAt": "2026-03-17T02:36:09Z",
+          "updatedAt": "2026-03-17T02:37:49Z"
         }
       ]
     }
