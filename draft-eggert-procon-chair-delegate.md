@@ -25,16 +25,11 @@ author:
     email: lars@eggert.org
     uri: https://eggert.org/
 
-normative:
-
-informative:
-
 --- abstract
 
 This document affirms that the IETF Chair may delegate some of their
 responsibilities to other Area Directors, and updates several
-existing RFCs to enable that. It also defines a succession of
-emergency stand-ins in case the IETF Chair becomes incapacitated.
+existing RFCs to enable that.
 
 --- middle
 
@@ -55,15 +50,6 @@ even a full-time commitment by a single person may no longer be
 sufficient to fulfill all of these roles and duties. There may also
 be periods of high activity where not all duties can be performed due
 to other, higher-priority tasks.
-
-Also, the role of the IETF Chair is a single point of failure for the
-organization, with no defined processes for allowing others to
-quickly and/or temporarily take over aspects of the role if the IETF
-Chair becomes partially or fully unable to serve. (The defined
-process is that for "mid-term vacancies" per {{Section 3.5
-of !RFC8713}}, which can take up to six weeks to complete and only
-allows for the permanent replacement of the IETF Chair by another
-individual.)
 
 Single bottlenecks like this have obvious scaling and fault tolerance
 issues. This document hence explicitly allows the IETF
@@ -91,38 +77,6 @@ has delegated to which other Area Director, and for which time. This
 transparency can be guaranteed in several ways, such as through the
 IESG website or public email. Such operational details are left to
 the discretion of the IESG.
-
-# Emergency Stand-In
-
-This section describes who may stand in for the IETF Chair in case of
-emergency if they become unable to fulfill their duties.
-
-## Background
-
-As described in {{intro}}, the IETF Chair role is at the moment a
-single point of failure for the organization. In an emergency that
-incapacitated the IETF Chair, a recall petition followed by executing
-a "mid-term vacancy" replacement would need to be executed to name a
-new IETF Chair. This process will likely take several weeks at best,
-during which time there is no defined stand-in for the IETF Chair.
-
-{:aside}
-> {{Section 7.1.1 of ?RFC8713}} currently prevents NomCom-ineligible IETF
-  participants from being signatories on recall petitions. This
-  includes anyone serving in a NomCom-selected role. This could be an
-  issue, since IESG, IAB and LLC Board members may be first-hand
-  witnesses to reasons that would merit an IETF Chair recall, but
-  they are currently unable to initiate one directly.
-
-## Delegation of the IETF Chair Role
-
-This document proposes that the IETF Chair, at their sole discretion,
-designates another Area Director as their stand-in immediately upon
-being seated and at anytime afterward in case changes need to be
-made. In case the IETF Chair becomes incapacitated, the stand-in will
-automatically and immediately assume the role of the IETF Chair. This
-emergency delegation ends as soon as the NomCom appoints a new IETF
-Chair or the IETF Chair declares themselves fit for duty again.
 
 # Separating the IETF Chair and IESG Chair Roles
 
