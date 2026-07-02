@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-06-30T02:56:06.109145+00:00",
+  "timestamp": "2026-07-02T02:52:51.023147+00:00",
   "repo": "ietf-wg-procon/ietf-chair-may-delegate",
   "labels": [
     {
@@ -183,7 +183,7 @@
       "labels": [],
       "body": "The important part of this term is that they are designated in advance. It doesn't have to be anything dramatic to cause this process to kick in. It can just be a missed flight or a child's graduation, causing a scheduling conflict. That way, business can carry on. Most of it is uncontroversial. If there were something really serious, it would take a long time anyway, but all of the other regular business can get done.",
       "createdAt": "2026-03-16T17:40:32Z",
-      "updatedAt": "2026-06-29T09:12:08Z",
+      "updatedAt": "2026-07-01T01:58:53Z",
       "closedAt": null,
       "comments": [
         {
@@ -255,8 +255,31 @@
           "body": "Now that the drafts are split, it might make sense to see if the \"vice chair\" rename makes sense in the context of the \"standin\" draft.",
           "createdAt": "2026-06-29T09:12:08Z",
           "updatedAt": "2026-06-29T09:12:08Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "It's here now:\n\nhttps://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/31\n\nIf you use the term \"vice-chair\", it cleans up further. But there are two separate points.",
+          "createdAt": "2026-07-01T01:58:53Z",
+          "updatedAt": "2026-07-01T01:58:53Z"
         }
       ]
+    },
+    {
+      "number": 30,
+      "id": "I_kwDOKFKpQ88AAAABHMeD-A",
+      "title": "IAB Membership of the IETF Chair can not be delegated",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/issues/30",
+      "state": "OPEN",
+      "author": "mirjak",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "In the IAB charter RFC2850, the IETF Chair is called out as a member of the IAB and this is not just a role or responsibility that can be delegated. Similar as any IAB member cannot delegate its membership to someone else; especially any voting rights cannot be delegated. However, I also don\u2019t think there is a need for delegation here. There is also the liaison from the IESG to the IAB; so there is also a second link between the groups. And similar as IAB members are potentially less active for some periods of time, it is also not a real problem if the IETF Chair would not be able to actively participate in IAB activities for a while; again the membership, however, remains, no matter if someone is actively contributing or not.",
+      "createdAt": "2026-06-30T14:45:17Z",
+      "updatedAt": "2026-06-30T14:45:17Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
@@ -1081,6 +1104,47 @@
         "oid": "8cb37ed51eb351e035993ee872fccf3121112d46"
       },
       "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 31,
+      "id": "PR_kwDOKFKpQ87sYXMy",
+      "title": "Soften stand-in language and guide on short absences",
+      "url": "https://github.com/ietf-wg-procon/ietf-chair-may-delegate/pull/31",
+      "state": "OPEN",
+      "author": "sayrer",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Tones down the dramatic language in the chair stand-in draft and adds guidance for short absences.\n\n## Changes\n- Drop \"Emergency\" from the title and section headings (\"The IETF Chair Has a Stand-In\", \"Stand-In\").\n- Replace \"incapacitated\" with \"indisposed\" throughout (abstract, background, delegation).\n- Add guidance: for a short expected absence, the stand-in should delay controversial decisions until the Chair is available again, while letting other business proceed.\n\nREADME.md title link updated to match.\n\n\ud83e\udd16 Generated with [Claude Code](https://claude.com/claude-code)",
+      "createdAt": "2026-06-30T19:28:53Z",
+      "updatedAt": "2026-06-30T20:16:09Z",
+      "baseRepository": "ietf-wg-procon/ietf-chair-may-delegate",
+      "baseRefName": "main",
+      "baseRefOid": "5b0035417a6a0a54291ef78f6b13772f7f5fda95",
+      "headRepository": "sayrer/ietf-chair-may-delegate",
+      "headRefName": "soften-standin-language",
+      "headRefOid": "3f975822c8e5c73e9d3c5d0cfd0a98bd5d4cf9e5",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "(It says \"generated with Claude Code\", but I told it everything to write and let it do the Markdown and git stuff)",
+          "createdAt": "2026-06-30T19:41:26Z",
+          "updatedAt": "2026-06-30T19:41:26Z"
+        },
+        {
+          "author": "sayrer",
+          "authorAssociation": "NONE",
+          "body": "It's not a hypothetical concern, either.\r\n\r\nThe famous \"I'm in charge here\" moment occurred on March 30, 1981, after President Ronald Reagan was shot. Secretary of State Alexander Haig made the controversial declaration in the White House press room while Vice President George H.W. Bush was still flying back to Washington.\r\n\r\nSo, we don't want that. We can table things in the sense of delay. :)",
+          "createdAt": "2026-06-30T20:16:09Z",
+          "updatedAt": "2026-06-30T20:16:09Z"
+        }
+      ],
       "reviews": []
     }
   ]
