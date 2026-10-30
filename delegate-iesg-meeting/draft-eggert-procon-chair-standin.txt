@@ -13,15 +13,15 @@ Expires: 3 May 2027
 
 Abstract
 
-   This document defines a succession of stand-ins in case the IETF
-   Chair becomes indisposed.
+   This document defines a stand-in in case the IETF Chair becomes
+   indisposed.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://ietf-wg-
-   procon.github.io/ietf-chair-standin/draft-eggert-procon-chair-
+   procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-
    standin.html.  Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-eggert-procon-chair-standin/.
 
@@ -31,7 +31,7 @@ About This Document
    https://www.ietf.org/mailman/listinfo/procon/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/ietf-wg-procon/ietf-chair-standin.
+   https://github.com/ietf-wg-procon/ietf-chair-may-delegate.
 
 Status of This Memo
 
@@ -112,13 +112,13 @@ Table of Contents
 
 2.2.  Delegation of the IETF Chair Role
 
-   This document proposes that the IETF Chair, at their sole discretion,
-   designates and announces another Area Director as their stand-in
-   immediately upon being seated and at anytime afterward in case
-   changes need to be made.  In case the IETF Chair becomes indisposed,
-   the stand-in will automatically and immediately assume the role of
-   the IETF Chair.  This delegation ends as soon as the NomCom appoints
-   a new IETF Chair or the IETF Chair is available again.
+   The IETF Chair, at their sole discretion, designates and announces
+   another Area Director as their stand-in immediately upon being seated
+   and at anytime afterward in case changes need to be made.  In case
+   the IETF Chair becomes indisposed, the stand-in will automatically
+   and immediately assume the role of the IETF Chair.  This delegation
+   ends as soon as the NomCom appoints a new IETF Chair or the IETF
+   Chair is available again.
 
    If the IETF Chair's absence is expected to be short, the stand-in
    should choose to delay controversial decisions until the IETF Chair
@@ -141,7 +141,21 @@ Table of Contents
 
    *  Brian Carpenter
 
+   *  Eric Rescorla
+
    *  Jari Arkko
+
+   *  Joel Halpern
+
+   *  Mike Bishop
+
+   *  Mirja Kühlewind
+
+   *  Rob Sayre
+
+   *  Robert Sparks
+
+   *  Ted Lemon
 
 6.  References
 
