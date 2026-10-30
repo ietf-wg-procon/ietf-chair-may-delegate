@@ -1,7 +1,7 @@
 ---
 title: "The IETF Chair May Delegate"
 category: bcp
-updates: 2850, 3710, 4949, 8713, 9281
+updates: 3710, 9281
 docname: draft-eggert-procon-chair-delegate-latest
 submissiontype: IETF
 consensus: true
@@ -28,8 +28,9 @@ author:
 --- abstract
 
 This document affirms that the IETF Chair may delegate some of their
-responsibilities to other Area Directors, and updates several
-existing RFCs to enable that.
+responsibilities to other Area Directors, and updates RFC 3710 and
+RFC 9281 to allow additional General Area Directors and to remove
+stale text.
 
 --- middle
 
