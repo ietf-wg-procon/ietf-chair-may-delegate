@@ -78,7 +78,10 @@ to one or more other Area Directors who agree to take them on, unless a
 BCP specifically disallows this. Each delegation is for a specific
 period of time and is announced. The IETF Chair continues to hold their
 roles and retains ultimate responsibility for any delegated tasks or
-functions.
+functions. This includes the IESG Chair's part in the appeals process
+({{Section 6.5.2 of !RFC2026}}): the IETF Chair may ask another Area
+Director to help resolve a complaint but remains responsible for the
+outcome.
 
 # Other Updates
 
