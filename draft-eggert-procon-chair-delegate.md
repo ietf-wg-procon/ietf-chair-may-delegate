@@ -50,7 +50,13 @@ these responsibilities. Over time, this has created a situation where
 even a full-time commitment by a single person may no longer be
 sufficient to fulfill all of these roles and duties. There may also
 be periods of high activity where not all duties can be performed due
-to other, higher-priority tasks.
+to other, higher-priority tasks, or a seated IETF Chair may need to
+reduce their load for a while, for example for health or family
+reasons. A candidate for IETF Chair may also know in advance that they
+will not be able to perform all duties themselves. A delegation can
+therefore last from a short period up to the IETF Chair's entire term.
+An IETF Chair who is unable to serve at all is covered by
+{{?I-D.eggert-procon-chair-standin}}.
 
 Single bottlenecks like this have obvious scaling and fault tolerance
 issues. This document hence explicitly allows the IETF
