@@ -69,7 +69,7 @@ Table of Contents
    1.  Introduction
    2.  Acting IETF Chair
      2.1.  Background
-     2.2.  Delegation of the IETF Chair Role
+     2.2.  Selection of the Acting IETF Chair
    3.  Security Considerations
    4.  IANA Considerations
    5.  Acknowledgments
@@ -110,7 +110,7 @@ Table of Contents
       |  first-hand witnesses to reasons that would merit an IETF Chair
       |  recall, but they are currently unable to initiate one directly.
 
-2.2.  Delegation of the IETF Chair Role
+2.2.  Selection of the Acting IETF Chair
 
    In case the IETF Chair becomes indisposed, the IESG selects and
    announces another Area Director who is willing to serve as Acting
@@ -118,9 +118,9 @@ Table of Contents
    The IETF Chair declares when they become indisposed and when they are
    available again.  If the IETF Chair is unable or unwilling to do so,
    or if there is disagreement, the IESG decides.  This does not affect
-   the recall process in Section 7 of [RFC8713].  This delegation ends
-   as soon as the NomCom appoints a new IETF Chair or the IETF Chair is
-   available again.
+   the recall process in Section 7 of [RFC8713].  The Acting IETF Chair
+   serves until the NomCom appoints a new IETF Chair or the IETF Chair
+   is available again.
 
    If the IETF Chair's absence is expected to be short, the Acting IETF
    Chair should choose to delay controversial decisions until the IETF
