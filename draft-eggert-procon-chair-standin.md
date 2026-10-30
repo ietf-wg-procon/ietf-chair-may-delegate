@@ -26,8 +26,8 @@ author:
 
 --- abstract
 
-This document defines a
-stand-in in case the IETF Chair becomes indisposed.
+This document defines a stand-in for the IETF Chair, called the
+Acting IETF Chair, in case the IETF Chair becomes indisposed.
 
 --- middle
 
@@ -42,10 +42,10 @@ of !RFC8713}}, which can take up to six weeks to complete and only
 allows for the permanent replacement of the IETF Chair by another
 individual.)
 
-# Stand-In
+# Acting IETF Chair
 
-This section describes who may stand in for the IETF Chair if they
-become indisposed.
+This section describes who may serve as Acting IETF Chair if the IETF Chair
+becomes indisposed.
 
 ## Background
 
@@ -54,7 +54,7 @@ single point of failure for the organization. If the IETF Chair
 becomes indisposed, a recall petition followed by executing
 a "mid-term vacancy" replacement would need to be executed to name a
 new IETF Chair. This process will likely take several weeks at best,
-during which time there is no defined stand-in for the IETF Chair.
+during which time there is no defined Acting IETF Chair.
 
 {:aside}
 > {{Section 7.1.1 of ?RFC8713}} currently prevents NomCom-ineligible IETF
@@ -67,14 +67,14 @@ during which time there is no defined stand-in for the IETF Chair.
 ## Delegation of the IETF Chair Role
 
 The IETF Chair, at their sole discretion,
-designates and announces another Area Director as their stand-in immediately upon
+designates and announces another Area Director as Acting IETF Chair immediately upon
 being seated and at anytime afterward in case changes need to be
-made. In case the IETF Chair becomes indisposed, the stand-in will
+made. In case the IETF Chair becomes indisposed, the Acting IETF Chair will
 automatically and immediately assume the role of the IETF Chair. This
 delegation ends as soon as the NomCom appoints a new IETF
 Chair or the IETF Chair is available again.
 
-If the IETF Chair's absence is expected to be short, the stand-in
+If the IETF Chair's absence is expected to be short, the Acting IETF Chair
 should choose to delay controversial decisions until the IETF Chair is
 available again, while allowing other business to proceed.
 
