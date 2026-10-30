@@ -90,6 +90,9 @@ functions. This includes the IESG Chair's part in the appeals process
 Director to help resolve a complaint but remains responsible for the
 outcome.
 
+The NomCom may ask candidates for IETF Chair which tasks they intend
+to delegate.
+
 If the IETF Chair is absent from an IESG meeting and has not delegated
 chairing it, the IESG may choose who chairs that meeting.
 
