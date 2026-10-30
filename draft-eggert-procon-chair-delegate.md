@@ -333,9 +333,10 @@ list {{?RFC9245}}. They also select moderators for the Last-Call
 mailing list, and other lists with an organizational scope
 encompassing the entire IETF.
 
-This document does not make any changes here, but the community may
-consider allowing delegation of either of these responsibilities if
-revisions of {{?RFC7776}} or {{?RFC9245}} are undertaken.
+The IETF Chair may delegate the work of soliciting and vetting
+candidates ({{delegation}}), but makes these appointments themselves,
+as {{?RFC7776}} makes the ombudsteam appointment "solely the
+responsibility of the IETF Chair". No changes are made here.
 
 ## Serving on the IETF LLC Board
 
