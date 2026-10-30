@@ -195,11 +195,10 @@ Steering Group (IESG)" glossary item:
 These texts are consistent with {{delegation}}: the IETF Chair chairs
 the IESG and only delegates specific tasks.
 
-# Delegation of the IAB Membership
+# IAB Membership
 
 This section analyzes which RFCs contain text about the full IAB
-membership of the IETF Chair, and makes updates that
-would allow delegation of the IAB membership.
+membership of the IETF Chair.
 
 ## Background
 
@@ -223,24 +222,12 @@ for "consideration by future NomComs":
 > The IETF Chair is also a member of the IAB, and the Chair of the
   Internet Research Task Force (IRTF) is an ex officio member.
 
-## Delegation of the IAB Member Role
+## IAB Member Role
 
-To allow the IETF Chair to delegate their full IAB membership to
-another AD, the following updates to existing RFCs are needed:
-
-1. Add "or their Delegate Area Director" at the end of the
-clause "composed of the chair of the Internet Engineering Task Force
-(IETF)" in {{Section 1 of !RFC2850}}.
-
-1. Add "With the publication of RFCXXXX, IETF guidance on this issue
-has changed as described there." to the second bullet item in
-{{Appendix C of !RFC8713}}.
-
-1. Change the sentence "The IETF Chair is also a member of the IAB,
-and the Chair of the Internet Research Task Force (IRTF) is an ex
-officio member." to "The IETF Chair or their delegate is also a
-member of the IAB, and the Chair of the Internet Research Task Force
-(IRTF) is an ex officio member." in {{Section 3.4 of !RFC9281}}.
+The IETF Chair remains a full voting member of the IAB and may choose
+to participate less in IAB activities when needed. {{!RFC2850}} is an
+IAB-stream BCP, so any change to the IETF Chair's IAB membership is for
+the IAB to make.
 
 # Delegation of the General Area Director Role
 
