@@ -64,18 +64,16 @@ during which time there is no defined Acting IETF Chair.
   witnesses to reasons that would merit an IETF Chair recall, but
   they are currently unable to initiate one directly.
 
-## Delegation of the IETF Chair Role
+## Selection of the Acting IETF Chair
 
-The IETF Chair, at their sole discretion,
-designates and announces another Area Director as Acting IETF Chair immediately upon
-being seated and at anytime afterward in case changes need to be
-made. In case the IETF Chair becomes indisposed, the Acting IETF Chair will
-automatically and immediately assume the role of the IETF Chair.
+In case the IETF Chair becomes indisposed, the IESG selects and
+announces another Area Director who is willing to serve as Acting IETF
+Chair, who then immediately assumes the role of the IETF Chair.
 The IETF Chair declares when they become indisposed and when they are
 available again. If the IETF Chair is unable or unwilling to do so, or
 if there is disagreement, the IESG decides. This does not affect the
-recall process in {{Section 7 of RFC8713}}. This
-delegation ends as soon as the NomCom appoints a new IETF
+recall process in {{Section 7 of RFC8713}}. The Acting IETF Chair
+serves until the NomCom appoints a new IETF
 Chair or the IETF Chair is available again.
 
 If the IETF Chair's absence is expected to be short, the Acting IETF Chair
