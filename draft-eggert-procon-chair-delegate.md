@@ -78,6 +78,51 @@ transparency can be guaranteed in several ways, such as through the
 IESG website or public email. Such operational details are left to
 the discretion of the IESG.
 
+# Other Updates
+
+This section collects updates to some text in existing RFCs that has
+become stale.
+
+## Staff Supervision
+
+{{Section 7.1 of ?RFC3710}} says
+
+> The IETF Chair has primary responsibility for supervising the work
+  of the IETF Secretariat, with the advice and consent of the IESG,
+  the IAB Chair and the ISOC president.
+
+With the publication of {{?RFC8711}}, this responsibility has moved to
+the IETF Executive Director ({{Section 5.1 of ?RFC8711}}). The document updates
+{{Section 7.1 of ?RFC3710}} to remove the sentence above.
+
+# Security Considerations
+
+The usual security considerations {{?RFC3552}} do not apply to this
+document.
+
+# IANA Considerations
+
+This document has no IANA actions.
+
+# Acknowledgments
+
+These individuals suggested improvements to this document:
+
+- Alvaro Retana
+- Brian Carpenter
+- Colin Perkins
+- Eliot Lear
+- Eric Rescorla
+- Jari Arkko
+- Joel Halpern
+- John Klensin
+- Leslie Daigle
+- Michael Richardson
+- Mirja Kühlewind
+- Russ Housley
+- Suresh Krishnan
+--- back
+
 # Separating the IETF Chair and IESG Chair Roles
 
 This section analyzes which RFCs imply that the IETF Chair and IESG
@@ -244,23 +289,6 @@ Internet Engineering Steering Group (IESG)" in the second sentence
 of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
 (This is also part of the changes in {{prop-chair-roles}}.)
 
-# Other Updates
-
-This section collects updates to some text in existing RFCs that has
-become stale.
-
-## Staff Supervision
-
-{{Section 7.1 of ?RFC3710}} says
-
-> The IETF Chair has primary responsibility for supervising the work
-  of the IETF Secretariat, with the advice and consent of the IESG,
-  the IAB Chair and the ISOC president.
-
-With the publication of {{?RFC8711}}, this responsibility has moved to
-the IETF Executive Director ({{Section 5.1 of ?RFC8711}}). The document updates
-{{Section 7.1 of ?RFC3710}} to remove the sentence above.
-
 # Other Roles
 
 This section briefly summarizes other roles the IETF Chair has, but
@@ -315,31 +343,3 @@ revisions of {{?RFC7776}} or {{?RFC9245}} are undertaken.
 the IESG, will serve on the Board of Directors of the IETF
 Administration LLC. Because delegation of that role is already
 explicitly allowed, no changes are made here.
-
-# Security Considerations
-
-The usual security considerations {{?RFC3552}} do not apply to this
-document.
-
-# IANA Considerations
-
-This document has no IANA actions.
-
-# Acknowledgments
-
-These individuals suggested improvements to this document:
-
-- Alvaro Retana
-- Brian Carpenter
-- Colin Perkins
-- Eliot Lear
-- Eric Rescorla
-- Jari Arkko
-- Joel Halpern
-- John Klensin
-- Leslie Daigle
-- Michael Richardson
-- Mirja Kühlewind
-- Russ Housley
-- Suresh Krishnan
---- back
