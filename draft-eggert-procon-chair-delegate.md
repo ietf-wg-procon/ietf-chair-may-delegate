@@ -83,6 +83,9 @@ functions. This includes the IESG Chair's part in the appeals process
 Director to help resolve a complaint but remains responsible for the
 outcome.
 
+If the IETF Chair is absent from an IESG meeting and has not delegated
+chairing it, the IESG may choose who chairs that meeting.
+
 # Other Updates
 
 This section collects updates to some text in existing RFCs that has
