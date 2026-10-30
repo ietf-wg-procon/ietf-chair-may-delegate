@@ -343,3 +343,10 @@ revisions of {{?RFC7776}} or {{?RFC9245}} are undertaken.
 the IESG, will serve on the Board of Directors of the IETF
 Administration LLC. Because delegation of that role is already
 explicitly allowed, no changes are made here.
+
+## Serving on the RFC Series Approval Board
+
+{{Section 3.1.2.2 of ?RFC9280}} makes the IETF stream representative on
+the RFC Series Approval Board "either an IESG member or someone
+appointed by the IESG". Because this already allows someone other than
+the IETF Chair to serve, no changes are made here.
