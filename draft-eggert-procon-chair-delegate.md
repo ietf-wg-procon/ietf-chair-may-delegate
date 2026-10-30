@@ -321,9 +321,9 @@ Chair approval.
 transgressions of the guidelines for conduct to the IETF Chair or the
 IESG."
 
-However, {{?RFC7154}} does not define any reactions the IETF Chair or
-the IESG should or may take, so the IETF Chair only acts as a
-recipient here.
+{{?RFC7154}} does not define any actions specific to the IETF Chair
+for such reports, so receiving them can be delegated like other tasks
+({{delegation}}).
 
 ## Appointments to the Ombuds-, Moderator and Last-Call List Moderation Teams
 
