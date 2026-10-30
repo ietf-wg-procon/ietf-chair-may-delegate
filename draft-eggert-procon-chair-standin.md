@@ -8,8 +8,8 @@ v: 3
 workgroup: "Process Document Consolidation"
 venue:
   mail: "procon@ietf.org"
-  github: "ietf-wg-procon/ietf-chair-standin"
-  latest: "https://ietf-wg-procon.github.io/ietf-chair-standin/draft-eggert-procon-chair-standin.html"
+  github: "ietf-wg-procon/ietf-chair-may-delegate"
+  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-standin.html"
 
 author:
 
@@ -26,8 +26,8 @@ author:
 
 --- abstract
 
-This document defines a succession of
-stand-ins in case the IETF Chair becomes indisposed.
+This document defines a
+stand-in in case the IETF Chair becomes indisposed.
 
 --- middle
 
@@ -66,7 +66,7 @@ during which time there is no defined stand-in for the IETF Chair.
 
 ## Delegation of the IETF Chair Role
 
-This document proposes that the IETF Chair, at their sole discretion,
+The IETF Chair, at their sole discretion,
 designates and announces another Area Director as their stand-in immediately upon
 being seated and at anytime afterward in case changes need to be
 made. In case the IETF Chair becomes indisposed, the stand-in will
@@ -93,5 +93,12 @@ These individuals suggested improvements to this document:
 
 - Alvaro Retana
 - Brian Carpenter
+- Eric Rescorla
 - Jari Arkko
+- Joel Halpern
+- Mike Bishop
+- Mirja Kühlewind
+- Rob Sayre
+- Robert Sparks
+- Ted Lemon
 --- back
