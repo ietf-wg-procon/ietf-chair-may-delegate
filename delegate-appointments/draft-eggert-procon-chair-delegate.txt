@@ -1,0 +1,538 @@
+
+
+
+
+Process Document Consolidation                            L. Eggert, Ed.
+Internet-Draft                                                   Mozilla
+Updates: 3710, 9281 (if approved)                        30 October 2026
+Intended status: Best Current Practice                                  
+Expires: 3 May 2027
+
+
+                      The IETF Chair May Delegate
+               draft-eggert-procon-chair-delegate-latest
+
+Abstract
+
+   This document affirms that the IETF Chair may delegate some of their
+   responsibilities to other Area Directors, and updates RFC 3710 and
+   RFC 9281 to allow additional General Area Directors and to remove
+   stale text.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at https://ietf-wg-
+   procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-
+   delegate.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-eggert-procon-chair-delegate/.
+
+   Discussion of this document takes place on the procon Working Group
+   mailing list (mailto:procon@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/procon/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/procon/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/ietf-wg-procon/ietf-chair-may-delegate.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 3 May 2027.
+
+Copyright Notice
+
+   Copyright (c) 2026 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Delegation
+   3.  Additional General Area Directors
+   4.  Other Updates
+     4.1.  Staff Supervision
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  Acknowledgments
+   8.  References
+     8.1.  Normative References
+     8.2.  Informative References
+   Appendix A.  The IETF Chair and IESG Chair Roles
+     A.1.  Background
+     A.2.  Delegation of IESG Chair Tasks
+   Appendix B.  IAB Membership
+     B.1.  Background
+     B.2.  IAB Member Role
+   Appendix C.  General Area Director Role
+     C.1.  Background
+     C.2.  Additional General Area Directors
+   Appendix D.  Other Roles
+     D.1.  Liaison Statements
+     D.2.  Transgressions of the IETF Guidelines for Conduct
+     D.3.  Appointments to the Ombuds-, Moderator and Last-Call List
+           Moderation Teams
+     D.4.  Serving on the IETF LLC Board
+     D.5.  Serving on the RFC Series Approval Board
+   Author's Address
+
+1.  Introduction
+
+   Throughout the history of the IETF, the role of the IETF Chair has
+   always been filled by a single person.  None of the foundational
+   documents of the organization precisely define the role, but most are
+   written with an understanding that the role is filled by a single
+   person who is then tasked with numerous responsibilities.  The
+   expired Internet-Draft [I-D.carpenter-ietf-chair-tasks] attempted to
+   define the role of the IETF Chair more precisely but was not taken
+   forward.
+
+   Few documents explicitly say that the IETF Chair may delegate some of
+   these responsibilities.  Over time, this has created a situation
+   where even a full-time commitment by a single person may no longer be
+   sufficient to fulfill all of these roles and duties.  There may also
+   be periods of high activity where not all duties can be performed due
+   to other, higher-priority tasks, or a seated IETF Chair may need to
+   reduce their load for a while, for example for health or family
+   reasons.  A candidate for IETF Chair may also know in advance that
+   they will not be able to perform all duties themselves.  A delegation
+   can therefore last from a short period up to the IETF Chair's entire
+   term.  An IETF Chair who is unable to serve at all is covered by
+   [I-D.eggert-procon-chair-standin].
+
+   Single bottlenecks like this have obvious scaling and fault tolerance
+   issues.  This document hence explicitly allows the IETF Chair to
+   delegate some of their responsibilities to one or more other Area
+   Directors.  It leaves it up to each IETF Chair to determine if they
+   would like to delegate some of their responsibilities, and if so,
+   which ones, to whom and when.
+
+   This document does not require or even recommend that the IETF chair
+   delegate any of their duties, it merely permits them to do so if they
+   so choose.  Specifically, with these changes, it should be possible
+   for the IESG to request the selection of a General Area Director who
+   is not at the same time also the IETF Chair, to whom the IETF Chair
+   may then delegate some of their responsibilities.
+
+   There must be community transparency about which tasks the IETF Chair
+   has delegated to which other Area Director, and for which time.  This
+   transparency can be guaranteed in several ways, such as through the
+   IESG website or public email.  Such operational details are left to
+   the discretion of the IESG.
+
+2.  Delegation
+
+   The IETF Chair may delegate specific tasks or functions of their
+   roles to one or more other Area Directors who agree to take them on,
+   unless a BCP specifically disallows this.  Each delegation is for a
+   specific period of time and is announced.  The IETF Chair continues
+   to hold their roles and retains ultimate responsibility for any
+   delegated tasks or functions.  This includes the IESG Chair's part in
+   the appeals process (Section 6.5.2 of [RFC2026]): the IETF Chair may
+   ask another Area Director to help resolve a complaint but remains
+   responsible for the outcome.
+
+   Delegation is limited to Area Directors, because the NomCom selected
+   them for the IESG and they are accountable through the NomCom and
+   recall processes.  This also preserves the separation between the IAB
+   and the standards process, and prevents candidates for IETF Chair
+   from campaigning as teams.
+
+   The NomCom may ask candidates for IETF Chair which tasks they intend
+   to delegate.
+
+   If the IETF Chair is absent from an IESG meeting and has not
+   delegated chairing it, the IESG may choose who chairs that meeting.
+
+3.  Additional General Area Directors
+
+   The IESG may ask the NomCom to fill one or more additional General
+   Area Director positions, just as it has added Area Directors to other
+   areas and created new areas.  The IETF Chair remains a General Area
+   Director.  To allow this, this document makes the following updates:
+
+   1.  In Section 2 of [RFC3710], replace "who also functions as the
+       General Area Director" with "who also functions as a General Area
+       Director".
+
+   2.  In Section 3.3 of [RFC9281], replace "is the AD for the General
+       Area" with "is an AD for the General Area".
+
+4.  Other Updates
+
+   This section collects updates to some text in existing RFCs that has
+   become stale.
+
+4.1.  Staff Supervision
+
+   Section 7.1 of [RFC3710] says
+
+      The IETF Chair has primary responsibility for supervising the work
+      of the IETF Secretariat, with the advice and consent of the IESG,
+      the IAB Chair and the ISOC president.
+
+   With the publication of [RFC8711], this responsibility has moved to
+   the IETF Executive Director (Section 5.1 of [RFC8711]).  The document
+   updates Section 7.1 of [RFC3710] to remove the sentence above.
+
+5.  Security Considerations
+
+   The usual security considerations [RFC3552] do not apply to this
+   document.
+
+6.  IANA Considerations
+
+   This document has no IANA actions.
+
+7.  Acknowledgments
+
+   These individuals suggested improvements to this document:
+
+   *  Alvaro Retana
+
+   *  Brian Carpenter
+
+   *  Colin Perkins
+
+   *  Eliot Lear
+
+   *  Eric Rescorla
+
+   *  Jari Arkko
+
+   *  Joel Halpern
+
+   *  John Klensin
+
+   *  Leslie Daigle
+
+   *  Michael Richardson
+
+   *  Mirja Kühlewind
+
+   *  Russ Housley
+
+   *  Suresh Krishnan
+
+8.  References
+
+8.1.  Normative References
+
+   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
+              3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
+              <https://www.rfc-editor.org/rfc/rfc2026>.
+
+   [RFC2850]  IAB and B. Carpenter, Ed., "Charter of the Internet
+              Architecture Board (IAB)", BCP 39, RFC 2850,
+              DOI 10.17487/RFC2850, May 2000,
+              <https://www.rfc-editor.org/rfc/rfc2850>.
+
+   [RFC8713]  Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
+              Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
+              Confirmation, and Recall Process: Operation of the IETF
+              Nominating and Recall Committees", BCP 10, RFC 8713,
+              DOI 10.17487/RFC8713, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8713>.
+
+   [RFC9281]  Salz, R., "Entities Involved in the IETF Standards
+              Process", BCP 11, RFC 9281, DOI 10.17487/RFC9281, June
+              2022, <https://www.rfc-editor.org/rfc/rfc9281>.
+
+8.2.  Informative References
+
+   [I-D.carpenter-ietf-chair-tasks]
+              Carpenter, B. E., "Tasks of the IETF Chair, IESG Chair,
+              and General Area Director", Work in Progress, Internet-
+              Draft, draft-carpenter-ietf-chair-tasks-00, 25 April 2006,
+              <https://datatracker.ietf.org/doc/html/draft-carpenter-
+              ietf-chair-tasks-00>.
+
+   [I-D.eggert-procon-chair-standin]
+              Eggert, L., "The IETF Chair Has an Emergency Stand-In",
+              Work in Progress, Internet-Draft, draft-eggert-procon-
+              chair-standin-00, 29 June 2026,
+              <https://datatracker.ietf.org/doc/html/draft-eggert-
+              procon-chair-standin-00>.
+
+   [I-D.ietf-procon-2026bis]
+              Salz, R. and S. O. Bradner, "The Internet Standards
+              Process", Work in Progress, Internet-Draft, draft-ietf-
+              procon-2026bis-12, 29 October 2026,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-procon-
+              2026bis-12>.
+
+   [RFC1602]  IAB and IESG, "The Internet Standards Process -- Revision
+              2", RFC 1602, DOI 10.17487/RFC1602, March 1994,
+              <https://www.rfc-editor.org/rfc/rfc1602>.
+
+   [RFC2028]  Hovey, R. and S. Bradner, "The Organizations Involved in
+              the IETF Standards Process", RFC 2028,
+              DOI 10.17487/RFC2028, October 1996,
+              <https://www.rfc-editor.org/rfc/rfc2028>.
+
+   [RFC3552]  Rescorla, E. and B. Korver, "Guidelines for Writing RFC
+              Text on Security Considerations", BCP 72, RFC 3552,
+              DOI 10.17487/RFC3552, July 2003,
+              <https://www.rfc-editor.org/rfc/rfc3552>.
+
+   [RFC3710]  Alvestrand, H., "An IESG charter", RFC 3710,
+              DOI 10.17487/RFC3710, February 2004,
+              <https://www.rfc-editor.org/rfc/rfc3710>.
+
+   [RFC4052]  Daigle, L., Ed. and IAB, "IAB Processes for Management of
+              IETF Liaison Relationships", BCP 102, RFC 4052,
+              DOI 10.17487/RFC4052, April 2005,
+              <https://www.rfc-editor.org/rfc/rfc4052>.
+
+   [RFC4691]  Andersson, L., Ed., "Guidelines for Acting as an IETF
+              Liaison to Another Organization", RFC 4691,
+              DOI 10.17487/RFC4691, October 2006,
+              <https://www.rfc-editor.org/rfc/rfc4691>.
+
+   [RFC4949]  Shirey, R., "Internet Security Glossary, Version 2",
+              FYI 36, RFC 4949, DOI 10.17487/RFC4949, August 2007,
+              <https://www.rfc-editor.org/rfc/rfc4949>.
+
+   [RFC7154]  Moonesamy, S., Ed., "IETF Guidelines for Conduct", BCP 54,
+              RFC 7154, DOI 10.17487/RFC7154, March 2014,
+              <https://www.rfc-editor.org/rfc/rfc7154>.
+
+   [RFC7776]  Resnick, P. and A. Farrel, "IETF Anti-Harassment
+              Procedures", BCP 25, RFC 7776, DOI 10.17487/RFC7776, March
+              2016, <https://www.rfc-editor.org/rfc/rfc7776>.
+
+   [RFC8711]  Haberman, B., Hall, J., and J. Livingood, "Structure of
+              the IETF Administrative Support Activity, Version 2.0",
+              BCP 101, RFC 8711, DOI 10.17487/RFC8711, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8711>.
+
+   [RFC9245]  Eggert, L. and S. Harris, "IETF Discussion List Charter",
+              BCP 45, RFC 9245, DOI 10.17487/RFC9245, June 2022,
+              <https://www.rfc-editor.org/rfc/rfc9245>.
+
+   [RFC9280]  Saint-Andre, P., Ed., "RFC Editor Model (Version 3)",
+              RFC 9280, DOI 10.17487/RFC9280, June 2022,
+              <https://www.rfc-editor.org/rfc/rfc9280>.
+
+Appendix A.  The IETF Chair and IESG Chair Roles
+
+   This section analyzes which RFCs imply that the IETF Chair and IESG
+   Chair roles need to be filled by the same person.
+
+A.1.  Background
+
+      |  Editor's note: Update the references to [RFC2026] in this
+      |  document to [I-D.ietf-procon-2026bis] once that document is
+      |  approved.
+
+   [RFC2026] is surprisingly silent on the role of the IETF Chair, only
+   mentioning it in Section 14 of [RFC2026] as part of the terminology:
+
+      Area Director - The manager of an IETF Area.  The Area Directors
+      along with the IETF Chair comprise the Internet Engineering
+      Steering Group (IESG).
+
+      Internet Engineering Steering Group (IESG) - A group comprised of
+      the IETF Area Directors and the IETF Chair. (...)
+
+   Similarly, the role of the IESG Chair is only briefly mentioned in
+   Section 6.5.2 of [RFC2026] as part of how process failures are
+   handled:
+
+      If an individual should disagree with an action taken by the IESG
+      in this process, that person should first discuss the issue with
+      the IESG Chair.  If the IESG Chair is unable to satisfy the
+      complainant then (...)
+
+   [RFC2026] does not require the IETF Chair to also fulfill the role of
+   IESG Chair.  Section 1.2 of [RFC1602], the earlier revision of the
+   standards process that [RFC2026] obsoletes, is an Informational RFC
+   and does include text to that effect, however:
+
+      The IESG is composed of the IETF Area Directors and the
+      chairperson of the IETF, who also serves as the chairperson of the
+      IESG.
+
+   Section 1.2 of [RFC1602] is likely the basis for [RFC2028], a BCP
+   that includes similar text:
+
+      The IESG is composed of the IETF Area Directors and the chair of
+      the IETF, who also serves as the chair of the IESG.
+
+   Section 3.3 of [RFC9281], a BCP that obsoletes [RFC2028], retains
+   that text and also states that the IETF Chair is the Area Director
+   for the General Area:
+
+      The IESG is composed of the ADs and the IETF Chair.  The IETF
+      Chair also chairs the IESG and is the AD for the General Area.
+
+   Section 4 of [RFC4949], an Informational RFC containing an Internet
+   Security Glossary, contains this text under the "Internet Engineering
+   Steering Group (IESG)" glossary item:
+
+      The part of the ISOC responsible for technical management of IETF
+      activities and administration of the Internet Standards Process
+      according to procedures approved by the ISOC Trustees.  Directly
+      responsible for actions along the "standards track", including
+      final approval of specifications as Internet Standards.  Composed
+      of IETF Area Directors and the IETF chairperson, who also chairs
+      the IESG.  (RFC 2026)
+
+A.2.  Delegation of IESG Chair Tasks
+
+   These texts are consistent with Section 2: the IETF Chair chairs the
+   IESG and only delegates specific tasks.
+
+Appendix B.  IAB Membership
+
+   This section analyzes which RFCs contain text about the full IAB
+   membership of the IETF Chair.
+
+B.1.  Background
+
+   Section 1 of [RFC2850] requires the IETF Chair to be a full member of
+   the IAB:
+
+      The Internet Architecture Board (IAB) shall consist of thirteen
+      full members, composed of the chair of the Internet Engineering
+      Task Force (IETF), and of twelve sitting members.
+
+   Appendix C of [RFC8713] contains a similar statement as part of the
+   second item in a list of "oral traditions" recorded for
+   "consideration by future NomComs":
+
+      No person should serve both on the IAB and as an Area Director,
+      except the IETF Chair whose roles as an IAB member and Area
+      Director of the General Area are set out elsewhere.
+
+   Section 3.4 of [RFC9281] says:
+
+      The IETF Chair is also a member of the IAB, and the Chair of the
+      Internet Research Task Force (IRTF) is an ex officio member.
+
+B.2.  IAB Member Role
+
+   The IETF Chair remains a full voting member of the IAB and may choose
+   to participate less in IAB activities when needed.  [RFC2850] is an
+   IAB-stream BCP, so any change to the IETF Chair's IAB membership is
+   for the IAB to make.
+
+Appendix C.  General Area Director Role
+
+   This section analyzes which RFCs contain text about the
+   responsibility of the IETF Chair to also serve as Area Director of
+   the General Area.
+
+C.1.  Background
+
+   Section 2 of [RFC3710] states that the IETF Chair is the General Area
+   Director:
+
+      The IETF Chair, who also functions as the General Area Director
+      when this area is active
+
+   Section 3.3 of [RFC9281] also makes a similar statement:
+
+      The IETF Chair also chairs the IESG and is the AD for the General
+      Area.
+
+C.2.  Additional General Area Directors
+
+   Both texts imply a single General Area Director.  Section 3 updates
+   them so that the IESG may ask the NomCom to fill additional General
+   Area Director positions.
+
+Appendix D.  Other Roles
+
+   This section briefly summarizes other roles the IETF Chair has, but
+   which require no updates, usually because delegation is already
+   permitted.
+
+D.1.  Liaison Statements
+
+   Section 3.1 of [RFC4691] says
+
+      Liaison statements are only sent on the initiative of the IETF
+      chair, the IAB chair, IETF Area Directors, or IETF working group
+      chairs.
+
+   Section 4 of [RFC4052] says
+
+      For a liaison statement generated on behalf of the IETF as a
+      whole, the IETF Chair must have generated or must agree with the
+      sending of the liaison statement.  If the liaison statement is not
+      sent by the IETF Chair, then his or her agreement must be obtained
+      in advance and confirmed by copying the IETF Chair on the message.
+
+   The combination of these two statements already allows another Area
+   Director to send a liaison statement on behalf of the IETF with IETF
+   Chair approval.
+
+D.2.  Transgressions of the IETF Guidelines for Conduct
+
+   Appendix A of [RFC7154] says "An individual can report transgressions
+   of the guidelines for conduct to the IETF Chair or the IESG."
+
+   [RFC7154] does not define any actions specific to the IETF Chair for
+   such reports, so receiving them can be delegated like other tasks
+   (Section 2).
+
+D.3.  Appointments to the Ombuds-, Moderator and Last-Call List
+      Moderation Teams
+
+   The IETF Chair is tasked with managing the constituency of the
+   ombudsteam [RFC7776] and the moderator team of the IETF discussion
+   list [RFC9245].  They also select moderators for the Last-Call
+   mailing list, and other lists with an organizational scope
+   encompassing the entire IETF.
+
+   The IETF Chair may delegate the work of soliciting and vetting
+   candidates (Section 2), but makes these appointments themselves, as
+   [RFC7776] makes the ombudsteam appointment "solely the responsibility
+   of the IETF Chair".  No changes are made here.
+
+D.4.  Serving on the IETF LLC Board
+
+   [RFC8711] suggests that the IETF Chair, or a delegate selected by the
+   IESG, will serve on the Board of Directors of the IETF Administration
+   LLC.  Because delegation of that role is already explicitly allowed,
+   no changes are made here.
+
+D.5.  Serving on the RFC Series Approval Board
+
+   Section 3.1.2.2 of [RFC9280] makes the IETF stream representative on
+   the RFC Series Approval Board "either an IESG member or someone
+   appointed by the IESG".  Because this already allows someone other
+   than the IETF Chair to serve, no changes are made here.
+
+Author's Address
+
+   Lars Eggert (editor)
+   Mozilla
+   Stenbergintie 12 B
+   FI-02700 Kauniainen
+   Finland
+   Email: lars@eggert.org
+   URI:   https://eggert.org/
