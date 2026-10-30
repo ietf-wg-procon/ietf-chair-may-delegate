@@ -76,6 +76,12 @@ recall process in {{Section 7 of RFC8713}}. The Acting IETF Chair
 serves until the NomCom appoints a new IETF
 Chair or the IETF Chair is available again.
 
+The Acting IETF Chair holds the full role of the IETF Chair, including
+the ability to delegate {{?I-D.eggert-procon-chair-delegate}}, and this
+section applies to them as it does to the IETF Chair. Delegations made
+by the IETF Chair remain in force unless the Acting IETF Chair changes
+them.
+
 If the IETF Chair's absence is expected to be short, the Acting IETF Chair
 should choose to delay controversial decisions until the IETF Chair is
 available again, while allowing other business to proceed.
