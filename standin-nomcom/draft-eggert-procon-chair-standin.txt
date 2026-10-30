@@ -69,7 +69,7 @@ Table of Contents
    1.  Introduction
    2.  Acting IETF Chair
      2.1.  Background
-     2.2.  Delegation of the IETF Chair Role
+     2.2.  Selection of the Acting IETF Chair
    3.  Security Considerations
    4.  IANA Considerations
    5.  Acknowledgments
@@ -110,7 +110,7 @@ Table of Contents
       |  first-hand witnesses to reasons that would merit an IETF Chair
       |  recall, but they are currently unable to initiate one directly.
 
-2.2.  Delegation of the IETF Chair Role
+2.2.  Selection of the Acting IETF Chair
 
    In case the IETF Chair becomes indisposed, or the position becomes
    vacant through resignation, recall or otherwise, the IESG selects and
