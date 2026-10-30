@@ -70,7 +70,11 @@ The IETF Chair, at their sole discretion,
 designates and announces another Area Director as Acting IETF Chair immediately upon
 being seated and at anytime afterward in case changes need to be
 made. In case the IETF Chair becomes indisposed, the Acting IETF Chair will
-automatically and immediately assume the role of the IETF Chair. This
+automatically and immediately assume the role of the IETF Chair.
+The IETF Chair declares when they become indisposed and when they are
+available again. If the IETF Chair is unable or unwilling to do so, or
+if there is disagreement, the IESG decides. This does not affect the
+recall process in {{Section 7 of RFC8713}}. This
 delegation ends as soon as the NomCom appoints a new IETF
 Chair or the IETF Chair is available again.
 
