@@ -125,11 +125,10 @@ These individuals suggested improvements to this document:
 - Suresh Krishnan
 --- back
 
-# Separating the IETF Chair and IESG Chair Roles
+# The IETF Chair and IESG Chair Roles
 
 This section analyzes which RFCs imply that the IETF Chair and IESG
-Chair roles need to be filled by the same person, and makes
-updates that would allow a separation.
+Chair roles need to be filled by the same person.
 
 ## Background
 
@@ -191,23 +190,10 @@ Steering Group (IESG)" glossary item:
   IETF Area Directors and the IETF chairperson, who also chairs the
   IESG. (RFC 2026)
 
-## Delegation of the IESG Chair Role {#prop-chair-roles}
+## Delegation of IESG Chair Tasks {#prop-chair-roles}
 
-To allow the IETF Chair to delegate the role of IESG Chair to another
-AD (as arguably intended to be allowed by {{!RFC2026}}), the
-following updates to existing RFCs are needed:
-
-1. Remove the sentence "The IETF Chair also chairs the IESG and is the
-AD for the General Area." from {{Section 3.3 of !RFC9281}}.
-
-1. Change the clause "The IETF chair, who is also the chair of the
-Internet Engineering Steering Group (IESG)" in the second sentence
-of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
-(This is also part of the change in {{prop-gen-ad}}.)
-
-1. Remove the clause "who also chairs the IESG" from the "Internet
-Engineering Steering Group (IESG)" glossary item in {{Section 4
-of ?RFC4949}}.
+These texts are consistent with {{delegation}}: the IETF Chair chairs
+the IESG and only delegates specific tasks.
 
 # Delegation of the IAB Membership
 
