@@ -86,6 +86,10 @@ updates that would allow a separation.
 
 ## Background
 
+{:aside}
+> Editor's note: Update the references to {{!RFC2026}} in this document
+  to {{?I-D.ietf-procon-2026bis}} once that document is approved.
+
 {{!RFC2026}} is surprisingly silent on the role of the IETF Chair,
 only mentioning it in {{Section 14 of !RFC2026}} as part of the
 terminology:
@@ -254,7 +258,7 @@ become stale.
   the IAB Chair and the ISOC president.
 
 With the publication of {{?RFC8711}}, this responsibility has moved to
-the IETF Executive Director. The document updates
+the IETF Executive Director ({{Section 5.1 of ?RFC8711}}). The document updates
 {{Section 7.1 of ?RFC3710}} to remove the sentence above.
 
 # Other Roles
@@ -327,5 +331,15 @@ These individuals suggested improvements to this document:
 
 - Alvaro Retana
 - Brian Carpenter
+- Colin Perkins
+- Eliot Lear
+- Eric Rescorla
 - Jari Arkko
+- Joel Halpern
+- John Klensin
+- Leslie Daigle
+- Michael Richardson
+- Mirja Kühlewind
+- Russ Housley
+- Suresh Krishnan
 --- back
