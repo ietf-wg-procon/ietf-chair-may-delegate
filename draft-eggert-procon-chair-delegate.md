@@ -86,6 +86,20 @@ outcome.
 If the IETF Chair is absent from an IESG meeting and has not delegated
 chairing it, the IESG may choose who chairs that meeting.
 
+# Additional General Area Directors {#gen-ad}
+
+The IESG may ask the NomCom to fill one or more additional General Area
+Director positions, just as it has added Area Directors to other areas
+and created new areas. The IETF Chair remains a General Area Director.
+To allow this, this document makes the following updates:
+
+1. In {{Section 2 of ?RFC3710}}, replace "who also functions as the
+General Area Director" with "who also functions as a General Area
+Director".
+
+1. In {{Section 3.3 of !RFC9281}}, replace "is the AD for the General
+Area" with "is an AD for the General Area".
+
 # Other Updates
 
 This section collects updates to some text in existing RFCs that has
@@ -235,12 +249,10 @@ to participate less in IAB activities when needed. {{!RFC2850}} is an
 IAB-stream BCP, so any change to the IETF Chair's IAB membership is for
 the IAB to make.
 
-# Delegation of the General Area Director Role
+# General Area Director Role
 
 This section analyzes which RFCs contain text about the responsibility
-of the IETF Chair to also serve as Area Director of the General Area,
-and makes updates that would allow delegation of or
-sharing of the role.
+of the IETF Chair to also serve as Area Director of the General Area.
 
 ## Background
 
@@ -255,20 +267,11 @@ Area Director:
 > The IETF Chair also chairs the IESG and is the AD for the General
   Area.
 
-## Delegation of the GEN Area AD Role {#prop-gen-ad}
+## Additional General Area Directors
 
-To allow the IETF Chair to delegate the Area Director role of the
-General Area, the following updates to existing RFCs are needed:
-
-1. Replace "who also functions as the General Area Director" with "who
-may also function as a General Area Director or may share that role
-with or delegate that role to another Area Director" in {{Section 2
-of ?RFC3710}}.
-
-1. Change the clause "The IETF chair, who is also the chair of the
-Internet Engineering Steering Group (IESG)" in the second sentence
-of {{Section 1 of !RFC2850}} to "The IETF chair or their delegate".
-(This is also part of the changes in {{prop-chair-roles}}.)
+Both texts imply a single General Area Director. {{gen-ad}} updates
+them so that the IESG may ask the NomCom to fill additional General
+Area Director positions.
 
 # Other Roles
 
