@@ -58,13 +58,6 @@ Area Directors. It leaves it up to each IETF Chair to determine if
 they would like to delegate some of their responsibilities, and if
 so, which ones, to whom and when.
 
-One model that is specifically enabled by this document is a
-separation of the roles of the IETF Chair from that of the IESG
-Chair, allowing another Area Director to take over the chairperson
-role of the IESG and its associated responsibilities. It also enables
-delegation of the IETF Chair's full IAB membership and delegation or
-sharing of the role of the General Area Director.
-
 This document does not require or even recommend that the IETF chair
 delegate any of their duties, it merely permits them to do so if they
 so choose. Specifically, with these changes, it should be possible
@@ -72,11 +65,20 @@ for the IESG to request the selection of a General Area Director who
 is not at the same time also the IETF Chair, to whom the IETF Chair
 may then delegate some of their responsibilities.
 
-There must be community transparency about which roles the IETF Chair
+There must be community transparency about which tasks the IETF Chair
 has delegated to which other Area Director, and for which time. This
 transparency can be guaranteed in several ways, such as through the
 IESG website or public email. Such operational details are left to
 the discretion of the IESG.
+
+# Delegation {#delegation}
+
+The IETF Chair may delegate specific tasks or functions of their roles
+to one or more other Area Directors who agree to take them on, unless a
+BCP specifically disallows this. Each delegation is for a specific
+period of time and is announced. The IETF Chair continues to hold their
+roles and retains ultimate responsibility for any delegated tasks or
+functions.
 
 # Other Updates
 
