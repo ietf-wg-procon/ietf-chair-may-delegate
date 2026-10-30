@@ -75,7 +75,9 @@ available again. If the IETF Chair is unable or unwilling to do so, or
 if there is disagreement, the IESG decides. This does not affect the
 recall process in {{Section 7 of RFC8713}}. The Acting IETF Chair
 serves until the NomCom appoints a new IETF
-Chair or the IETF Chair is available again.
+Chair or the IETF Chair is available again. The ability to serve as
+Acting IETF Chair is not a criterion for the NomCom when selecting Area
+Directors.
 
 The Acting IETF Chair holds the full role of the IETF Chair, including
 the ability to delegate {{?I-D.eggert-procon-chair-delegate}}, and this
