@@ -90,6 +90,12 @@ functions. This includes the IESG Chair's part in the appeals process
 Director to help resolve a complaint but remains responsible for the
 outcome.
 
+Delegation is limited to Area Directors, because the NomCom selected
+them for the IESG and they are accountable through the NomCom and
+recall processes. This also preserves the separation between the IAB
+and the standards process, and prevents candidates for IETF Chair from
+campaigning as teams.
+
 The NomCom may ask candidates for IETF Chair which tasks they intend
 to delegate.
 
