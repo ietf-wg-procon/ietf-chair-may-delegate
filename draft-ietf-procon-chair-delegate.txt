@@ -10,7 +10,7 @@ Expires: 6 May 2027
 
 
                       The IETF Chair May Delegate
-               draft-eggert-procon-chair-delegate-latest
+                draft-ietf-procon-chair-delegate-latest
 
 Abstract
 
@@ -24,9 +24,9 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://ietf-wg-
-   procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-
+   procon.github.io/ietf-chair-may-delegate/draft-ietf-procon-chair-
    delegate.html.  Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-eggert-procon-chair-delegate/.
+   https://datatracker.ietf.org/doc/draft-ietf-procon-chair-delegate/.
 
    Discussion of this document takes place on the procon Working Group
    mailing list (mailto:procon@ietf.org), which is archived at
@@ -96,6 +96,7 @@ Table of Contents
            Moderation Teams
      D.4.  Serving on the IETF LLC Board
      D.5.  Serving on the RFC Series Approval Board
+   Changes since draft-eggert-procon-chair-delegate-02
    Author's Address
 
 1.  Introduction
@@ -526,6 +527,36 @@ D.5.  Serving on the RFC Series Approval Board
    the RFC Series Approval Board "either an IESG member or someone
    appointed by the IESG".  Because this already allows someone other
    than the IETF Chair to serve, no changes are made here.
+
+Changes since draft-eggert-procon-chair-delegate-02
+
+   *  Allow delegating specific tasks instead of whole roles, with the
+      IETF Chair retaining ultimate responsibility.
+
+   *  Keep the IESG Chair role and the IAB membership with the IETF
+      Chair, and drop the corresponding updates to RFC 2850, RFC 4949
+      and RFC 8713.
+
+   *  Address the IESG Chair's part in the appeals process.
+
+   *  Let the IESG choose who chairs a meeting when the IETF Chair is
+      absent.
+
+   *  Allow additional General Area Directors, updating RFC 3710 and RFC
+      9281.
+
+   *  Describe the situations in which delegation may be needed.
+
+   *  Let the NomCom ask IETF Chair candidates about their delegation
+      plans.
+
+   *  Explain why delegation is limited to Area Directors.
+
+   *  Cover the RSAB seat, conduct reports and team appointments.
+
+   *  Move the analysis of existing RFCs into appendices.
+
+   *  Editorial fixes.
 
 Author's Address
 

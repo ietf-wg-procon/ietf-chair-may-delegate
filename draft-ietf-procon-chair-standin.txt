@@ -9,7 +9,7 @@ Expires: 6 May 2027
 
 
                      The IETF Chair Has a Stand-In
-                draft-eggert-procon-chair-standin-latest
+                 draft-ietf-procon-chair-standin-latest
 
 Abstract
 
@@ -21,9 +21,9 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://ietf-wg-
-   procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-
+   procon.github.io/ietf-chair-may-delegate/draft-ietf-procon-chair-
    standin.html.  Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-eggert-procon-chair-standin/.
+   https://datatracker.ietf.org/doc/draft-ietf-procon-chair-standin/.
 
    Discussion of this document takes place on the procon Working Group
    mailing list (mailto:procon@ietf.org), which is archived at
@@ -76,6 +76,7 @@ Table of Contents
    6.  References
      6.1.  Normative References
      6.2.  Informative References
+   Changes since draft-eggert-procon-chair-standin-00
    Author's Address
 
 1.  Introduction
@@ -191,6 +192,28 @@ Table of Contents
               Text on Security Considerations", BCP 72, RFC 3552,
               DOI 10.17487/RFC3552, July 2003,
               <https://www.rfc-editor.org/rfc/rfc3552>.
+
+Changes since draft-eggert-procon-chair-standin-00
+
+   *  Rename "stand-in" to "Acting IETF Chair".
+
+   *  Have the IESG select a willing Area Director as Acting IETF Chair,
+      instead of the IETF Chair designating one in advance.
+
+   *  Define who decides that the IETF Chair is indisposed or available
+      again.
+
+   *  Cover a vacant IETF Chair position.
+
+   *  Give the Acting IETF Chair the full role of the IETF Chair,
+      including the ability to delegate.
+
+   *  State that the ability to serve as Acting IETF Chair is not a
+      NomCom criterion for selecting Area Directors.
+
+   *  Soften the language and add guidance for short absences.
+
+   *  Editorial fixes.
 
 Author's Address
 
