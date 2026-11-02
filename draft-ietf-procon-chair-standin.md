@@ -114,8 +114,12 @@ These individuals suggested improvements to this document:
 - Ted Lemon
 --- back
 
+<!-- markdownlint-disable MD022 -->
+
 # Changes since draft-eggert-procon-chair-standin-00
 {:numbered="false"}
+
+<!-- markdownlint-enable MD022 -->
 
 - Rename "stand-in" to "Acting IETF Chair".
 - Have the IESG select a willing Area Director as Acting IETF Chair,

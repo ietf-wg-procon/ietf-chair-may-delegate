@@ -352,8 +352,12 @@ the RFC Series Approval Board "either an IESG member or someone
 appointed by the IESG". Because this already allows someone other than
 the IETF Chair to serve, no changes are made here.
 
+<!-- markdownlint-disable MD022 -->
+
 # Changes since draft-eggert-procon-chair-delegate-02
 {:numbered="false"}
+
+<!-- markdownlint-enable MD022 -->
 
 - Allow delegating specific tasks instead of whole roles, with the IETF
   Chair retaining ultimate responsibility.
