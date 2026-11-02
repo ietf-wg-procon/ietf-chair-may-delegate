@@ -2,7 +2,7 @@
 title: "The IETF Chair May Delegate"
 category: bcp
 updates: 3710, 9281
-docname: draft-eggert-procon-chair-delegate-latest
+docname: draft-ietf-procon-chair-delegate-latest
 submissiontype: IETF
 consensus: true
 v: 3
@@ -10,7 +10,7 @@ workgroup: "Process Document Consolidation"
 venue:
   mail: "procon@ietf.org"
   github: "ietf-wg-procon/ietf-chair-may-delegate"
-  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-delegate.html"
+  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-ietf-procon-chair-delegate.html"
 
 author:
 
@@ -351,3 +351,22 @@ explicitly allowed, no changes are made here.
 the RFC Series Approval Board "either an IESG member or someone
 appointed by the IESG". Because this already allows someone other than
 the IETF Chair to serve, no changes are made here.
+
+# Changes since draft-eggert-procon-chair-delegate-02
+{:numbered="false"}
+
+- Allow delegating specific tasks instead of whole roles, with the IETF
+  Chair retaining ultimate responsibility.
+- Keep the IESG Chair role and the IAB membership with the IETF Chair,
+  and drop the corresponding updates to RFC 2850, RFC 4949 and
+  RFC 8713.
+- Address the IESG Chair's part in the appeals process.
+- Let the IESG choose who chairs a meeting when the IETF Chair is absent.
+- Allow additional General Area Directors, updating RFC 3710 and
+  RFC 9281.
+- Describe the situations in which delegation may be needed.
+- Let the NomCom ask IETF Chair candidates about their delegation plans.
+- Explain why delegation is limited to Area Directors.
+- Cover the RSAB seat, conduct reports and team appointments.
+- Move the analysis of existing RFCs into appendices.
+- Editorial fixes.

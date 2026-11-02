@@ -1,7 +1,7 @@
 ---
 title: "The IETF Chair Has a Stand-In"
 category: bcp
-docname: draft-eggert-procon-chair-standin-latest
+docname: draft-ietf-procon-chair-standin-latest
 submissiontype: IETF
 consensus: true
 v: 3
@@ -9,7 +9,7 @@ workgroup: "Process Document Consolidation"
 venue:
   mail: "procon@ietf.org"
   github: "ietf-wg-procon/ietf-chair-may-delegate"
-  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-eggert-procon-chair-standin.html"
+  latest: "https://ietf-wg-procon.github.io/ietf-chair-may-delegate/draft-ietf-procon-chair-standin.html"
 
 author:
 
@@ -113,3 +113,19 @@ These individuals suggested improvements to this document:
 - Robert Sparks
 - Ted Lemon
 --- back
+
+# Changes since draft-eggert-procon-chair-standin-00
+{:numbered="false"}
+
+- Rename "stand-in" to "Acting IETF Chair".
+- Have the IESG select a willing Area Director as Acting IETF Chair,
+  instead of the IETF Chair designating one in advance.
+- Define who decides that the IETF Chair is indisposed or available
+  again.
+- Cover a vacant IETF Chair position.
+- Give the Acting IETF Chair the full role of the IETF Chair, including
+  the ability to delegate.
+- State that the ability to serve as Acting IETF Chair is not a NomCom
+  criterion for selecting Area Directors.
+- Soften the language and add guidance for short absences.
+- Editorial fixes.
