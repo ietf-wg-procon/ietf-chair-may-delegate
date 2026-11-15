@@ -53,15 +53,15 @@ be periods of high activity where not all duties can be performed due
 to other, higher-priority tasks, or a seated IETF Chair may need to
 reduce their load for a while, for example for health or family
 reasons. A candidate for IETF Chair may also know in advance that they
-will not be able to perform all duties themselves. A delegation can
-therefore last from a short period up to the IETF Chair's entire term.
+will not be able to perform all duties themselves.
 An IETF Chair who is unable to serve at all is covered by
 {{?I-D.eggert-procon-chair-standin}}.
 
 Single bottlenecks like this have obvious scaling and fault tolerance
 issues. This document hence explicitly allows the IETF
 Chair to delegate some of their responsibilities to one or more other
-Area Directors. It leaves it up to each IETF Chair to determine if
+Area Directors, for anything from a short period up to their entire
+term. It leaves it up to each IETF Chair to determine if
 they would like to delegate some of their responsibilities, and if
 so, which ones, to whom and when.
 
