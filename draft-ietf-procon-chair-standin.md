@@ -70,6 +70,7 @@ In case the IETF Chair becomes indisposed, or the position becomes
 vacant through resignation, recall or otherwise, the IESG selects and
 announces another Area Director who is willing to serve as Acting IETF
 Chair, who then immediately assumes the role of the IETF Chair.
+The Acting IETF Chair does not become the IETF Chair.
 The IETF Chair declares when they become indisposed and when they are
 available again. If the IETF Chair is unable or unwilling to do so, or
 if there is disagreement, the IESG decides. This does not affect the
